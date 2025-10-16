@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio Web - Projetos em Grupo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logos-container">
+            <div class="logo-item">
+                <img src="Brasao_Estado_Goias-8cc.jpg" alt="Secretaria de Educação do Estado de Goiás">
+                <p>Secretaria de Educação do Estado de Goiás</p>
+            </div>
+            <div class="logo-item">
+                <img src="logo_efg.png" alt="EFG José Luiz Bitencourt">
+                <p>EFG José Luiz Bitencourt</p>
+            </div>
+            <div class="logo-item">
+                <img src="logoCEPI2018.jfif" alt="CEPI Divino Pai Eterno">
+                <p>CEPI Divino Pai Eterno</p>
+            </div>
+        </div>
+
+        <h1>Portfólio Web</h1>
+        <p>Este projeto apresenta o resultado do trabalho de alunos do curso Técnico em Desenvolvimento Web e Cibersegurança.</p>
+        <p>Apresentação: Professor Rodrigo Souto, responsável pelos componentes curriculares Prática Profissional e Projeto Integrador.</p>
+
+        <nav>
+            <a href="index.html">Projetos em Grupo</a>
+            <a href="alunos.html class="active"">Projetos Individuais</a>
+        </nav>
+
+        <div class="filtros">
+            <label for="filtro-turma">Filtrar por Turma:</label>
+            <select id="filtro-turma"></select>
+            <input type="text" id="pesquisa-aluno" placeholder="Buscar por nome do aluno/projeto...">
+        </div>
+    </header>
+
+    <main>
+        <h2>Projetos em Grupo</h2>
+        <div id="lista-projetos" data-tipo="individuais">
+            </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
