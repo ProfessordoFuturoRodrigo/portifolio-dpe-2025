@@ -1,19 +1,19 @@
-1º A|Livraria Digital|Venda de e-books e audiolivros|https://professordofuturorodrigo.github.io/em_constru-o/|Ana Paula, Dhovana, Larissa, Pedro Lucas, Talya
+1º A|Livraria Digital|Venda de e-books e audiolivros|#Link|Ana Paula, Dhovana, Larissa, Pedro Lucas, Talya
 1º A|Agência de Turismo para PCDs|Roteiros acessíveis para pessoas com deficiência|https://professordofuturorodrigo.github.io/em_constru-o/|Ana Cristina, Diêniffer, Helena, Henry, Kayon, Maria Vitória, Thiesa, Victor Ricardo
 1º A|Startup de Economia Circular|Reaproveitamento e reciclagem de materiais|https://professordofuturorodrigo.github.io/em_constru-o/|PROJETO ABANDONADO!
 1º A|Plataforma de Aulas para Surdos e Mudos|Educação em Libras|https://professordofuturorodrigo.github.io/em_constru-o/|Emilly Vitória, Heithor, Isabella, Kaique Antôny
-1º A|Empresa de Desenvolvimento de Software|Aplicativos web e mobile|https://professordofuturorodrigo.github.io/em_constru-o/|Alexandre, Anny Luiza, Fhaitton, Hevellyn, Lucas Antônio, Luiz Felipe, Matheus
+1º A|Empresa de Desenvolvimento de Software|Aplicativos web e mobile|https://annylu1z4.github.io/Desenvolvimento-web-e-mobile/|Alexandre, Anny Luiza, Fhaitton, Hevellyn, Lucas Antônio, Luiz Felipe, Matheus
 1º A|E-commerce de Produtos Veganos|Alimentação, cosméticos e roupas sem origem animal|https://professordofuturorodrigo.github.io/em_constru-o/|Alencar, Dyêmisson, Estefany
 
 1º B|Site para Ensino de Robótica Educacional|Cursos e kits para escolas e estudante|https://professordofuturorodrigo.github.io/em_constru-o/|Ana Karolyna, Evelyn Karolline, Lara, Renan
 1º B|Academia para Pessoas com Deficiência|Treinamento adaptado e acessibilidade|https://professordofuturorodrigo.github.io/em_constru-o/|Anna Luiza, Anny Gabrielle, Maria Rita, Nycole, Sofia
 1º B|Aplicativo de Rotinas Saudáveis|Exercícios, dieta e hidratação|https://professordofuturorodrigo.github.io/em_constru-o/|David Wesley, Lucas Felipe, Lucas Gabryel, Wallace
-1º B|Projeto de Alfabetização para Adultos|Aulas online para ensino básico|https://professordofuturorodrigo.github.io/em_constru-o/|Ana Luiza, Anny Stefanny, Marcela, Maria Paula, Tauane, Thaylla
+1º B|Projeto de Alfabetização para Adultos|Aulas online para ensino básico|https://analuizabarbosa7-hue.github.io/grupo-4/|Ana Luiza, Anny Stefanny, Marcela, Maria Paula, Tauane, Thaylla
 1º B|Startup de Inteligência Artificial|Serviços de automação e IA|https://professordofuturorodrigo.github.io/em_constru-o/|Cloves, Felipe, Keven, Rafael, Yusseff Nattan
 1º B|Espaço de Coworking Tecnológico|Localização de vagas para startups|https://professordofuturorodrigo.github.io/em_constru-o/|Bárbara, Thania, Warley
 1º B|Loja de Roupas Sustentáveis|Moda ecológica e materiais recicláveis|https://professordofuturorodrigo.github.io/em_constru-o/|PROJETO ABANDONADO!
 
-1º C|Consultoria em Cibersegurança|Proteção de dados e segurança digital|https://professordofuturorodrigo.github.io/em_constru-o/|Fernando, Luiz Felipe, Vinícius
+1º C|Consultoria em Cibersegurança|Proteção de dados e segurança digital|https://luizfelipe-pereira.github.io/SafeData/|Fernando, Luiz Felipe, Vinícius
 1º C|Centro de Reforço Escolar Online|Apoio em matemática, português e ciências|https://professordofuturorodrigo.github.io/em_constru-o/|Arthur, Erick, Geraldo, Gustavo, Lukas Gabriel, Murilo Max
 1º C|Plataforma de Psicólogos Online|Atendimento psicológico remoto|https://professordofuturorodrigo.github.io/em_constru-o/|Anna Beatriz, Fillipe Gabriel, Kayky, Thamili
 1º C|Loja de Componentes Eletrônicos|Venda de placas, sensores e microcontroladores|https://professordofuturorodrigo.github.io/em_constru-o/|Lucas José, Natália, Pedro Henrique
@@ -23,7 +23,7 @@
 
 2º A|Empresa de Soluções em IoT (Internet das Coisas)|Automação residencial e industrial|https://professordofuturorodrigo.github.io/em_constru-o/|Elcio, Fernanda, Italo Ryan, Marcos, Ysabella
 2º A|Pet Shop Online|Produtos e serviços para animais de estimação|https://professordofuturorodrigo.github.io/em_constru-o/|Heitor, Kauã, Marcos Rangel, Sidney
-2º A|Plataforma de Cursos Online|EAD para cursos técnicos e profissionalizantes|https://professordofuturorodrigo.github.io/em_constru-o/|Danillo Cristian, Eduardo, José Rodolpho, Kayo Gabryel
+2º A|Plataforma de Cursos Online|EAD para cursos técnicos e profissionalizantes|https://danilloloup-cell.github.io/Projeto-Integrador/|Danillo Cristian, Eduardo, José Rodolpho, Kayo Gabryel
 2º A|Biblioteca Digital Comunitária|Acesso a livros gratuitos e acessíveis|https://professordofuturorodrigo.github.io/em_constru-o/|Ana Clara, Davi, Izadora, Kawane, Nicolly
 2º A|Clínica de Fisioterapia e Reabilitação|Atendimento especializado para idosos e atletas|https://professordofuturorodrigo.github.io/em_constru-o/|Ana Luísa, Daniel, Geovanna Vitória, Tawany
 
@@ -33,7 +33,7 @@
 2º B|Agência de Marketing Digital|Criação de campanhas, SEO e redes sociais|https://professordofuturorodrigo.github.io/em_constru-o/|Igo, Silver, Tony
 2º B|Escola de Música Inclusiva|Ensino de música para pessoas com deficiência|https://e04ah.github.io/escola-de-musica-inclusiva-2-B/|Elóah, Emilly, Rayanny
 
-2º C|Centro de Estética e Cuidados Pessoais|Serviços de beleza e bem-estar|https://professordofuturorodrigo.github.io/em_constru-o/|Carlos Victor, Kaue Henrique, Osmar, Wilkner Felipe
+2º C|Centro de Estética e Cuidados Pessoais|Serviços de beleza e bem-estar|https://wilunderline.github.io/Centro-de-Estetica/|Carlos Victor, Kaue Henrique, Osmar, Wilkner Felipe
 2º C|Consultoria em Blockchain e Criptomoedas|Segurança e investimento em criptografia|https://professordofuturorodrigo.github.io/em_constru-o/|Daniel, Luiz, Pedro Henrique, Reminton
 2º C|Loja de Cosméticos Naturais|Produtos orgânicos e ecológicos|https://professordofuturorodrigo.github.io/em_constru-o/|Gabriela, Kayky, Maria Eduarda, Pabline, Roberta Heloar, Ruan Gabriel
 2º C|Escola de Idiomas para Baixa Renda|Aulas gratuitas ou a preços acessíveis|https://professordofuturorodrigo.github.io/em_constru-o/|Divino, Izabelly Maria, Wryel Kaio
