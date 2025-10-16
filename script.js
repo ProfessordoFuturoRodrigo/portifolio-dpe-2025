@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 htmlConteudo += `<p><strong>Aluno:</strong> ${projeto.aluno}</p>`;
             }
 
-            const linkTexto = isEmConstrucao ? 'Em Construção (Não Abrir)' : 'Acessar Projeto';
+            const linkTexto = isEmConstrucao ? 'Em Construção' : 'Acessar Projeto';
             const linkHref = isEmConstrucao ? '#' : projeto.link;
             const linkTarget = isEmConstrucao ? '' : '_blank'; // Abre em nova aba se não for 'Em Construção'
             
@@ -153,4 +153,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Inicia o carregamento dos dados
     carregarDados();
+
 });
