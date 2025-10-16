@@ -1,23 +1,19 @@
-/* Paleta de Cores Profissional:
-   - Azul Principal (para links/destaques): #0056b3 (ou um tom mais suave como #0d6efd)
-   - Fundo: #f8f9fa (cinza muito claro, quase branco)
-   - Texto Principal: #343a40 (cinza escuro)
-   - Card: #ffffff
-   - Destaque Construção: #ffc107 (amarelo, mantido para aviso claro)
-*/
-
+/* Paleta de Cores (Suavizada e Profissional) */
 :root {
-    --primary-color: #0d6efd; /* Azul moderno */
-    --secondary-color: #6c757d; /* Cinza para texto secundário */
-    --dark-text: #343a40; /* Texto principal escuro */
-    --light-bg: #f8f9fa; /* Fundo suave */
+    --primary-color: #007bff;     /* Azul padrão para destaques */
+    --link-button-color: #28a745; /* Verde para botão de link (suave) */
+    --link-button-hover: #218838;
+    --dark-text: #343a40;         /* Texto principal escuro */
+    --secondary-color: #6c757d;   /* Cinza para texto secundário */
+    --light-bg: #f8f9fa;          /* Fundo suave (quase branco) */
     --card-bg: #ffffff;
-    --construction-color: #ffc107; /* Amarelo de aviso */
-    --construction-border: #dc3545; /* Vermelho para a borda de "em construção" */
+    --construction-bg: #ffe0b2;   /* Laranja/Amarelo muito suave para 'Em Construção' */
+    --construction-border: #ff9800; /* Laranja para a borda de 'Em Construção' */
+    --filter-bg: #e9ecef;         /* Fundo suave para filtros */
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Fonte mais profissional */
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: var(--light-bg);
@@ -28,23 +24,22 @@ body {
 header {
     background-color: var(--card-bg);
     padding: 30px 20px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
     text-align: center;
     margin-bottom: 20px;
 }
 
 h1 {
     color: var(--primary-color);
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     font-size: 2.5em;
     font-weight: 600;
 }
 
 h2 {
     color: var(--dark-text);
-    border-bottom: 2px solid #e9ecef;
-    padding-bottom: 10px;
-    margin-top: 0;
+    padding-bottom: 5px;
+    margin-top: 10px;
     font-size: 1.8em;
 }
 
@@ -54,20 +49,21 @@ header p {
     margin: 5px auto;
 }
 
-/* Container das Logos (Melhoria no Efeito) */
+
+/* --- Container das Logos (CORES ORIGINAIS, EFEITO MANTIDO) --- */
+
 .logos-container {
     display: flex;
     justify-content: center;
     gap: 40px;
     margin-bottom: 30px;
-    padding-bottom: 10px;
 }
 
 .logo-item {
     position: relative;
-    width: 100px; /* Reduzindo um pouco o tamanho */
+    width: 100px;
     height: 100px;
-    overflow: visible; /* Deixa o overflow visível para o texto flutuar */
+    overflow: visible;
     cursor: pointer;
     text-align: center;
 }
@@ -76,24 +72,21 @@ header p {
     width: 100%;
     height: 100%;
     object-fit: contain;
-    transition: all 0.3s ease-in-out;
-    filter: grayscale(100%); /* Suaviza as logos quando inativas */
-    opacity: 0.7;
+    transition: transform 0.3s ease-in-out;
+    /* REMOVIDO: filter: grayscale(100%); e opacity */
 }
 
 .logo-item:hover img {
-    transform: scale(1.05);
-    filter: grayscale(0%); /* Colore a logo ao passar o mouse */
-    opacity: 1;
+    transform: scale(1.05); /* Suaviza o efeito de hover */
 }
 
 .logo-item p {
     position: absolute;
-    top: 100%; /* Inicia logo abaixo da imagem */
+    top: 100%; 
     left: 50%;
-    transform: translate(-50%, 5px); /* Desloca e centraliza */
-    width: 200px; /* Mais largo para o texto */
-    background-color: var(--dark-text);
+    transform: translate(-50%, 5px); 
+    width: 200px;
+    background-color: var(--dark-text); /* Fundo escuro para o texto flutuante */
     color: var(--card-bg);
     padding: 8px 10px;
     border-radius: 4px;
@@ -103,15 +96,17 @@ header p {
     transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
     box-sizing: border-box;
     font-size: 0.85em;
-    z-index: 10; /* Garante que o texto fique por cima */
+    z-index: 10;
 }
 
 .logo-item:hover p {
-    opacity: 1; /* Mostra o texto ao passar o mouse */
-    transform: translate(-50%, 15px); /* Flutua um pouco ao aparecer */
+    opacity: 1;
+    transform: translate(-50%, 15px);
 }
 
-/* Navegação e Filtros */
+
+/* --- Navegação e Filtros --- */
+
 nav {
     margin-bottom: 20px;
 }
@@ -122,20 +117,17 @@ nav a {
     font-weight: 500;
     margin: 0 10px;
     padding: 8px 15px;
-    border-radius: 20px; /* Borda arredondada */
+    border-radius: 20px;
     transition: all 0.3s;
-    border: 1px solid transparent;
 }
 
 nav a.active {
     background-color: var(--primary-color);
     color: white;
-    border: 1px solid var(--primary-color);
 }
 
 nav a:hover:not(.active) {
-    background-color: #e9ecef;
-    color: #0056b3;
+    background-color: var(--filter-bg);
 }
 
 .filtros {
@@ -144,7 +136,7 @@ nav a:hover:not(.active) {
     display: flex;
     justify-content: center;
     gap: 20px;
-    background-color: #f1f1f1;
+    background-color: var(--filter-bg); /* Fundo suave */
     border-radius: 8px;
 }
 
@@ -158,16 +150,11 @@ nav a:hover:not(.active) {
     border-radius: 4px;
     font-size: 1em;
     color: var(--dark-text);
-    transition: border-color 0.3s, box-shadow 0.3s;
 }
 
-.filtros input:focus, .filtros select:focus {
-    border-color: var(--primary-color);
-    box-shadow: 0 0 0 0.1rem rgba(13, 110, 253, 0.25);
-    outline: none;
-}
 
-/* Lista de Projetos */
+/* --- Lista de Projetos (Retorno ao estilo anterior com cores suaves) --- */
+
 main {
     padding: 0 20px 40px;
     max-width: 1200px;
@@ -177,78 +164,65 @@ main {
 #lista-projetos {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 25px;
+    gap: 20px;
 }
 
 .projeto-card {
     background-color: var(--card-bg);
-    border: 1px solid #dee2e6; /* Borda suave */
+    border: 1px solid #ddd;
     border-radius: 8px;
-    padding: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    padding: 15px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s, box-shadow 0.2s;
 }
 
 .projeto-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .projeto-card h3 {
     margin-top: 0;
-    margin-bottom: 10px;
     color: var(--primary-color);
-    font-size: 1.4em;
+    font-size: 1.3em;
     font-weight: 600;
 }
 
 .projeto-card p {
-    margin: 8px 0;
-    font-size: 0.95em;
-    color: var(--secondary-color);
-}
-
-.projeto-card p strong {
-    color: var(--dark-text);
-    font-weight: 600;
+    margin: 5px 0;
+    font-size: 0.9em;
+    color: var(--dark-text); /* Texto do card mais visível */
 }
 
 .projeto-card a {
     display: inline-block;
-    margin-top: 15px;
-    padding: 10px 20px;
-    background-color: #198754; /* Verde de sucesso suave */
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: var(--link-button-color);
     color: white;
     text-decoration: none;
-    border-radius: 50px; /* Botão mais arredondado */
-    font-weight: 600;
-    transition: background-color 0.3s;
+    border-radius: 5px;
+    font-weight: 500;
 }
 
 .projeto-card a:hover {
-    background-color: #157347;
+    background-color: var(--link-button-hover);
 }
 
-/* Estilo para projeto EM CONSTRUÇÃO (sem link válido) */
+/* Estilo para projeto EM CONSTRUÇÃO (com cor suave) */
 .projeto-em-construcao {
-    background-color: var(--construction-color); /* Amarelo de aviso */
+    background-color: var(--construction-bg); /* Amarelo/Laranja BEM suave */
     border: 1px solid var(--construction-border);
-    border-left: 5px solid var(--construction-border);
-    opacity: 0.85;
-}
-
-.projeto-em-construcao h3 {
-    color: var(--dark-text);
+    border-left: 5px solid var(--construction-border); /* Borda mais fina e visível */
 }
 
 .projeto-em-construcao a {
-    background-color: #6c757d; /* Cinza para o botão inativo */
+    background-color: var(--secondary-color); /* Cinza para botão inativo */
     cursor: default;
-    box-shadow: none;
 }
 
 .projeto-em-construcao a:hover {
-    background-color: #5a6268;
+    background-color: var(--secondary-color);
 }
 
 /* Mensagem de Sem Resultados */
@@ -258,6 +232,4 @@ main {
     padding: 50px;
     font-size: 1.2em;
     color: var(--secondary-color);
-    background-color: var(--card-bg);
-    border-radius: 8px;
 }
