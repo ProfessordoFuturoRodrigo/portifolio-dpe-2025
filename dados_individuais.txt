@@ -3,7 +3,7 @@
 1º A|Ana Cristina|Título|#Link|Autor(es)
 1º A|Ana Júlia|Título|#Link|Autor(es)
 1º A|Ana Paula|Título|#Link|Autor(es)
-1º A|Anny|Título|#Link|Autor(es)
+1º A|Anny|Título|https://annylu1z4.github.io/Site-Individual/|Anny
 1º A|Dhovana|Título|#Link|Autor(es)
 1º A|Diêniffer|Título|#Link|Autor(es)
 1º A|Dyêmisson|Título|#Link|Autor(es)
@@ -14,7 +14,7 @@
 1º A|Heithor|Título|#Link|Autor(es)
 1º A|Helena|Título|#Link|Autor(es)
 1º A|Henry|Título|#Link|Autor(es)
-1º A|Hevellyn|Título|#Link|Autor(es)
+1º A|Hevellyn|Título|https://hevellynsouzaarntes16.github.io/site-individual/|Hevellyn
 1º A|Isabella|Título|#Link|Autor(es)
 1º A|Kaique|Título|#Link|Autor(es)
 1º A|Kayon|Título|#Link|Autor(es)
@@ -28,11 +28,11 @@
 1º A|Pedro Lucas|Título|#Link|Autor(es)
 1º A|Rafael|Título|#Link|Autor(es)
 1º A|Talya|Título|#Link|Autor(es)
-1º A|Thiesa|Título|#Link|Autor(es)
+1º A|Thiesa|Simulação de IA|https://thiesasousa-lab.github.io/thiessa/|Thiesa
 1º A|Victor|Título|#Link|Autor(es)
 
 1º B|Ana Karolyna|Título|#Link|Autor(es)
-1º B|Ana Luiza|Título|#Link|Autor(es)
+1º B|Ana Luiza|Título|https://analuizabarbosa7-hue.github.io/grupo-4/|Ana Luiza
 1º B|Anna Luiza|Título|#Link|Autor(es)
 1º B|Anny Gabrielle|Título|#Link|Autor(es)
 1º B|Anny Stefanny|Título|#Link|Autor(es)
@@ -56,10 +56,10 @@
 1º B|Rafael Joaquim|Título|#Link|Autor(es)
 1º B|Renan|Título|#Link|Autor(es)
 1º B|Sofia|Título|#Link|Autor(es)
-1º B|Tauane|Título|#Link|Autor(es)
+1º B|Tauane|Título|https://tauane-ai.github.io/jogos-cepi/|Tauane
 1º B|Thania|Título|#Link|Autor(es)
 1º B|Thaylla|Título|#Link|Autor(es)
-1º B|Wallace|Título|#Link|Autor(es)
+1º B|Wallace|Título|https://wallacelimasouza-ai.github.io/meuprimeirosite/|Wallace
 1º B|Warley|Título|#Link|Autor(es)
 1º B|Yusseff|Título|#Link|Autor(es)
 
@@ -104,7 +104,7 @@
 2º A|Danillo|Título|#Link|Autor(es)
 2º A|Davi|Título|#Link|Autor(es)
 2º A|Eduardo|Título|#Link|Autor(es)
-2º A|Elcio|Título|#Link|Autor(es)
+2º A|Elcio|Título|https://elciolima-create.github.io/repositorio-dos-cara-do-teto|Elcio
 2º A|Fernanda|Título|#Link|Autor(es)
 2º A|Gabrielle|Título|#Link|Autor(es)
 2º A|Geovanna|Título|#Link|Autor(es)
@@ -112,7 +112,7 @@
 2º A|Italo|Título|#Link|Autor(es)
 2º A|Izadora|Título|#Link|Autor(es)
 2º A|José|Título|#Link|Autor(es)
-2º A|Kauã|Título|#Link|Autor(es)
+2º A|Kauã|Título|https://nzx7x.github.io/GameLab|Autor(es)
 2º A|Kawane|Título|#Link|Autor(es)
 2º A|Kayo|Título|#Link|Autor(es)
 2º A|Marcos Antônio|Título|#Link|Autor(es)
@@ -169,10 +169,10 @@
 2º C|Roberta|Título|#Link|Autor(es)
 2º C|Ruan|Título|#Link|Autor(es)
 2º C|Sthefany|Título|#Link|Autor(es)
-2º C|Wilkner|Título|#Link|Autor(es)
+2º C|Wilkner|Bem-vindo ao meu espaço pessoal na web, onde compartilho um pouco sobre mim, minhas experiências e as coisas que amo.|https://wilunderline.github.io/meusiteiradodelegaldemaneiro/|Wilkner
 2º C|Wryel|Título|#Link|Autor(es)
 
-3º A|Anny|Título|#Link|Autor(es)
+3º A|Anny Gabrielly|Arte em desenvolvimento|https://annyluz1-2026.github.io/Art-desing/|Anny Gabrielly
 3º A|Carlos Alexandre|Filmes e séries ilimitados|https://totelis.github.io/Trabalho_do_4Bimestre/|Carlos Alexandre
 3º A|Carlos Eduardo|Título|#Link|Autor(es)
 3º A|Cauã|Título|#Link|Autor(es)
@@ -180,14 +180,14 @@
 3º A|Felipe|Título|#Link|Autor(es)
 3º A|Jhonathan|Título|#Link|Autor(es)
 3º A|João|Título|#Link|Autor(es)
-3º A|Kaio|Título|#Link|Autor(es)
+3º A|Kaio|Vendas de produtos variados em atacado ou varejo|https://kaiomiguelroiz.github.io/kaio-miguel/|Kaio
 3º A|Kayky|Título|#Link|Autor(es)
-3º A|Luiz|Título|#Link|Autor(es)
+3º A|Luiz Gustavo|Vamos falar sobre os tipos de computadores.|https://luiz-gustavo060.github.io/Tipos-de-Computador/|Luiz Gustavo
 3º A|Marcela|Título|#Link|Autor(es)
-3º A|Maria|Título|#Link|Autor(es)
-3º A|Pablo|Título|#Link|Autor(es)
+3º A|Maria|Criação de modelos de roupas para marcas|https://marialeao16-boop.github.io/-maria/|Maria Eduarda
+3º A|Pablo|Um site simples sobre animes — notícias, curiosidades e recomendações.|pablopyetrosad.github.io/otaku-last/|Pablo Pyetro
 3º A|Pedro|Título|#Link|Autor(es)
-3º A|Samuel|Título|#Link|Autor(es)
+3º A|Samuel|Este site sera para dar a sua opiniao sobre uma manga por favor tenha respeito ja que cada pessoa tem a sua propria opiniao.|https://samueloliveira22-ai.github.io/manga/|Samuel
 3º A|Yasmim|Título|#Link|Autor(es)
 
 3º B|Carlos Junio|Título|#Link|Autor(es)
@@ -204,5 +204,5 @@
 3º B|Murilo|Título|#Link|Autor(es)
 3º B|Paulo|Título|#Link|Autor(es)
 3º B|Rayssa|Título|#Link|Autor(es)
-3º B|Sthefane|Título|#Link|Autor(es)
+3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
