@@ -55,8 +55,8 @@
 1º B|Nycole|Produtos de Beleza|https://nycolefernanda-netizen.github.io/individual/|Nycole
 1º B|Rafael Joaquim|Título|#Link|Autor(es)
 1º B|Renan|Título|#Link|Autor(es)
-1º B|Sofia|Título|#Link|Autor(es)
-1º B|Tauane|Título|https://tauane-ai.github.io/jogos-cepi/|Tauane
+1º B|Sofia|BY SOFY|https://sofiasilva2-lgtm.github.io/PI-individual/index.html|Sofia
+1º B|Tauane|Jogos|https://tauane-ai.github.io/jogos-cepi/|Tauane
 1º B|Thania|Título|#Link|Autor(es)
 1º B|Thaylla|Título|#Link|Autor(es)
 1º B|Wallace|Título|https://wallacelimasouza-ai.github.io/meuprimeirosite/|Wallace
@@ -205,5 +205,7 @@
 3º B|Paulo|Título|#Link|Autor(es)
 3º B|Rayssa|Título|#Link|Autor(es)
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
+3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Teste/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
