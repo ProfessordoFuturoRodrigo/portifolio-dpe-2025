@@ -12,7 +12,7 @@
 1º A|Fhaitton|Título|#Link|Autor(es)
 1º A|Hágata|Título|#Link|Autor(es)
 1º A|Heithor|Título|#Link|Autor(es)
-1º A|Helena|Título|#Link|Autor(es)
+1º A|Helena|Lena suplementos|https://helenagouveia-code.github.io/lena_suplementos/|Helena
 1º A|Henry|Título|#Link|Autor(es)
 1º A|Hevellyn|Viagem dos Sonhos|https://hevellynsouzaarntes16.github.io/site-individual/|Hevellyn
 1º A|Isabella|Título|#Link|Autor(es)
@@ -32,7 +32,7 @@
 1º A|Victor|Título|#Link|Autor(es)
 
 1º B|Ana Karolyna|Título|#Link|Autor(es)
-1º B|Ana Luiza|Título|https://analuizabarbosa7-hue.github.io/grupo-4/|Ana Luiza
+1º B|Ana Luiza|Cuidadores Profissionais|https://analuizabarbosa7-hue.github.io/meu-primeiro-site/|Ana Luiza
 1º B|Anna Luiza|Título|#Link|Autor(es)
 1º B|Anny Gabrielle|Título|#Link|Autor(es)
 1º B|Anny Stefanny|Título|#Link|Autor(es)
@@ -53,7 +53,7 @@
 1º B|Maria Rita|Título|#Link|Autor(es)
 1º B|Matheus|Título|#Link|Autor(es)
 1º B|Nycole|Produtos de Beleza|https://nycolefernanda-netizen.github.io/individual/|Nycole
-1º B|Rafael Joaquim|Título|#Link|Autor(es)
+1º B|Rafael Joaquim|Título|https://orafaell.github.io/Meu-Primeiro-Site/|Rafael Joaquim
 1º B|Renan|Título|#Link|Autor(es)
 1º B|Sofia|BY SOFY|https://sofiasilva2-lgtm.github.io/PI-individual/index.html|Sofia
 1º B|Tauane|Jogos|https://tauane-ai.github.io/jogos-cepi/|Tauane
@@ -205,8 +205,4 @@
 3º B|Paulo|Título|#Link|Autor(es)
 3º B|Rayssa|Título|#Link|Autor(es)
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
-3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Teste/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
-
-
-
