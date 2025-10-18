@@ -1,7 +1,7 @@
 1º A|Livraria Digital|Venda de e-books e audiolivros|#Link|Ana Paula, Dhovana, Larissa, Pedro Lucas, Talya
-1º A|Agência de Turismo para PCDs|Roteiros acessíveis para pessoas com deficiência|https://professordofuturorodrigo.github.io/em_constru-o/|Ana Cristina, Diêniffer, Helena, Henry, Kayon, Maria Vitória, Thiesa, Victor Ricardo
+1º A|Agência de Turismo para PCDs|Roteiros acessíveis para pessoas com deficiência|https://thiesasousa-lab.github.io/projeto-Rodrigo/|Ana Cristina, Diêniffer, Helena, Henry, Kayon, Maria Vitória, Thiesa, Victor Ricardo
 1º A|Startup de Economia Circular|Reaproveitamento e reciclagem de materiais|https://professordofuturorodrigo.github.io/em_constru-o/|PROJETO ABANDONADO!
-1º A|Plataforma de Aulas para Surdos e Mudos|Educação em Libras|https://professordofuturorodrigo.github.io/em_constru-o/|Emilly Vitória, Heithor, Isabella, Kaique Antôny
+1º A|Plataforma de Aulas para Surdos e Mudos|Educação em Libras|https://emillyar.github.io/time-4-site-de-libras/|Emilly Vitória, Heithor, Isabella, Kaique Antôny
 1º A|Empresa de Desenvolvimento de Software|Aplicativos web e mobile|https://annylu1z4.github.io/Desenvolvimento-web-e-mobile-time5/|Alexandre, Anny Luiza, Fhaitton, Hevellyn, Lucas Antônio, Luiz Felipe, Matheus
 1º A|E-commerce de Produtos Veganos|Alimentação, cosméticos e roupas sem origem animal|https://professordofuturorodrigo.github.io/em_constru-o/|Alencar, Dyêmisson, Estefany
 
@@ -10,7 +10,7 @@
 1º B|Aplicativo de Rotinas Saudáveis|Exercícios, dieta e hidratação|https://professordofuturorodrigo.github.io/em_constru-o/|David Wesley, Lucas Felipe, Lucas Gabryel, Wallace
 1º B|Projeto de Alfabetização para Adultos|Aulas online para ensino básico|https://analuizabarbosa7-hue.github.io/grupo-4/|Ana Luiza, Anny Stefanny, Marcela, Maria Paula, Tauane, Thaylla
 1º B|Startup de Inteligência Artificial|Serviços de automação e IA|https://professordofuturorodrigo.github.io/em_constru-o/|Cloves, Felipe, Keven, Rafael, Yusseff Nattan
-1º B|Espaço de Coworking Tecnológico|Localização de vagas para startups|https://professordofuturorodrigo.github.io/em_constru-o/|Bárbara, Thania, Warley
+1º B|Espaço de Coworking Tecnológico|Localização de vagas para startups|https://warleysouzarocha-collab.github.io/pitime-6/|Bárbara, Thania, Warley
 1º B|Loja de Roupas Sustentáveis|Moda ecológica e materiais recicláveis|https://professordofuturorodrigo.github.io/em_constru-o/|PROJETO ABANDONADO!
 
 1º C|Consultoria em Cibersegurança|Proteção de dados e segurança digital|https://luizfelipe-pereira.github.io/SafeData/|Fernando, Luiz Felipe, Vinícius
@@ -45,4 +45,5 @@
 
 3º B|Desenvolvedora de Games|Jogos para mobile, PC e consoles|https://sthefanebrito.github.io/Projeto-kitty-/|Carlos Júnior, Felype, Gabriel, Jamilly Vitória, Jean Matheus, Maria Luara, Marjory, Sthefane
 3º B|Portal de Ensino de Educação Financeira|Conteúdo sobre investimentos e gestão financeira|https://theus450.github.io/Projeto-EvoCoin/|Daniel, Hericky, Matheus, Paulo Ricardo, Rayssa Thayná, Yasmim
+
 
