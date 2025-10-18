@@ -3,7 +3,7 @@
 1º A|Ana Cristina|Título|#Link|Autor(es)
 1º A|Ana Paula|Título|#Link|Autor(es)
 1º A|Anny|Título|https://annylu1z4.github.io/Site-Individual/|Anny
-1º A|Dhovana|Título|#Link|Autor(es)
+1º A|Dhovana|Biblioteca Gótica Hello Kitty|https://dhovana.github.io/dhovana/|Dhovana
 1º A|Diêniffer|Olá mundo!|https://dieniffermenezes-gif.github.io/index.html/|Diêniffer
 1º A|Dyêmisson|Título|#Link|Autor(es)
 1º A|Emilly|Título|#Link|Autor(es)
@@ -15,7 +15,7 @@
 1º A|Hevellyn|Viagem dos Sonhos|https://hevellynsouzaarntes16.github.io/site-individual/|Hevellyn
 1º A|Isabella|Título|#Link|Autor(es)
 1º A|Kaique|Somar|https://kaiquecunha-cloud.github.io/kaique19cm/|Kaique
-1º A|Kayon|Título|#Link|Autor(es)
+1º A|Kayon|Saúde e Bem-Estar|https://kayonmoraes-stack.github.io/trabalho-individual/|Kayon
 1º A|Larissa|Título|#Link|Autor(es)
 1º A|Lucas|Título|#Link|Autor(es)
 1º A|Luiz Felipe|Título|#Link|Autor(es)
@@ -108,7 +108,7 @@
 
 2º B|Ana Clara|Título|#Link|Autor(es)
 2º B|Carlos Eduardo|Título|#Link|Autor(es)
-2º B|Danilo|Título|#Link|Autor(es)
+2º B|Danilo|Calculadora de Média Escolar|https://danilolopesfilho-dotcom.github.io/Calculadora-de-Media-Escolar-Cepi/|Danilo
 2º B|Eduardo Góes|Título|#Link|Autor(es)
 2º B|Elóah|Título|#Link|Autor(es)
 2º B|Emilly|Título|#Link|Autor(es)
@@ -177,5 +177,6 @@
 3º B|Rayssa|Título|#Link|Autor(es)
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
