@@ -3,7 +3,7 @@
 1º A|Ana Cristina|Título|#Link|Autor(es)
 1º A|Ana Paula|Título|#Link|Autor(es)
 1º A|Anny|Título|https://annylu1z4.github.io/Site-Individual/|Anny
-1º A|Dhovana|Biblioteca Gótica Hello Kitty|https://dhovana.github.io/dhovana/|Dhovana
+1º A|Dhovana|Biblioteca Gótica Hello Kitty|https://dhovana.github.io/biblioteca/|Dhovana
 1º A|Diêniffer|Olá mundo!|https://dieniffermenezes-gif.github.io/index.html/|Diêniffer
 1º A|Dyêmisson|Título|#Link|Autor(es)
 1º A|Emilly|Título|#Link|Autor(es)
@@ -177,6 +177,7 @@
 3º B|Rayssa|Título|#Link|Autor(es)
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
