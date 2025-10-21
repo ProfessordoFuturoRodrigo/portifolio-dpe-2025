@@ -1,6 +1,5 @@
 1º A|Livraria Digital|Venda de e-books e audiolivros|#Link|Ana Paula, Dhovana, Larissa, Pedro Lucas, Talya
 1º A|Agência de Turismo para PCDs|Roteiros acessíveis para pessoas com deficiência|https://thiesasousa-lab.github.io/projeto-Rodrigo/|Ana Cristina, Diêniffer, Helena, Henry, Kayon, Maria Vitória, Thiesa, Victor Ricardo
-1º A|Startup de Economia Circular|Reaproveitamento e reciclagem de materiais|https://professordofuturorodrigo.github.io/em_constru-o/|PROJETO ABANDONADO!
 1º A|Plataforma de Aulas para Surdos e Mudos|Educação em Libras|https://emillyar.github.io/time-4-site-de-libras/|Emilly Vitória, Heithor, Isabella, Kaique Antôny
 1º A|Empresa de Desenvolvimento de Software|Aplicativos web e mobile|https://annylu1z4.github.io/Desenvolvimento-web-e-mobile-time5/|Alexandre, Anny Luiza, Fhaitton, Hevellyn, Lucas Antônio, Luiz Felipe, Matheus
 1º A|E-commerce de Produtos Veganos|Alimentação, cosméticos e roupas sem origem animal|https://professordofuturorodrigo.github.io/em_constru-o/|Alencar, Dyêmisson, Estefany
@@ -14,12 +13,13 @@
 1º B|Loja de Roupas Sustentáveis|Moda ecológica e materiais recicláveis|https://professordofuturorodrigo.github.io/em_constru-o/|PROJETO ABANDONADO!
 
 1º C|Consultoria em Cibersegurança|Proteção de dados e segurança digital|https://luizfelipe-pereira.github.io/SafeData/|Fernando, Luiz Felipe, Vinícius
-1º C|Centro de Reforço Escolar Online|Apoio em matemática, português e ciências|https://professordofuturorodrigo.github.io/em_constru-o/|Arthur, Erick, Geraldo, Gustavo, Lukas Gabriel, Murilo Max
+1º C|Centro de Reforço Escolar Online|Apoio em matemática, português e ciências|https://professordofuturorodrigo.github.io/em_constru-o/|Erick, Geraldo, Gustavo, Lukas Gabriel, Murilo Max
 1º C|Plataforma de Psicólogos Online|Atendimento psicológico remoto|https://professordofuturorodrigo.github.io/em_constru-o/|Anna Beatriz, Fillipe Gabriel, Kayky, Thamili
 1º C|Loja de Componentes Eletrônicos|Venda de placas, sensores e microcontroladores|https://professordofuturorodrigo.github.io/em_constru-o/|Lucas José, Natália, Pedro Henrique
 1º C|Loja de Equipamentos para Fotografia|Câmeras, acessórios e iluminação|https://professordofuturorodrigo.github.io/em_constru-o/|Amanda
 1º C|Portal de Notícias Comunitárias|Informações locais e jornalismo independente|https://professordofuturorodrigo.github.io/em_constru-o/|Fellipe, Lucas Lubachevski, Mauricio, Vyctor Augusto, Vytor
 1º C|Loja de Brinquedos Educativos|Para desenvolvimento infantil|https://professordofuturorodrigo.github.io/em_constru-o/|João Vitor, Yana
+1º C|Startup de Economia Circular|Reaproveitamento e reciclagem de materiais|https://professordofuturorodrigo.github.io/em_constru-o/|Arthur
 
 2º A|Empresa de Soluções em IoT (Internet das Coisas)|Automação residencial e industrial|https://professordofuturorodrigo.github.io/em_constru-o/|Elcio, Fernanda, Italo Ryan, Marcos, Ysabella
 2º A|Pet Shop Online|Produtos e serviços para animais de estimação|https://professordofuturorodrigo.github.io/em_constru-o/|Heitor, Kauã, Marcos Rangel, Sidney
@@ -45,5 +45,6 @@
 
 3º B|Desenvolvedora de Games|Jogos para mobile, PC e consoles|https://sthefanebrito.github.io/Projeto-kitty-/|Carlos Júnior, Felype, Gabriel, Jamilly Vitória, Jean Matheus, Maria Luara, Marjory, Sthefane
 3º B|Portal de Ensino de Educação Financeira|Conteúdo sobre investimentos e gestão financeira|https://theus450.github.io/Projeto-EvoCoin/|Daniel, Hericky, Matheus, Paulo Ricardo, Rayssa Thayná, Yasmim
+
 
 
