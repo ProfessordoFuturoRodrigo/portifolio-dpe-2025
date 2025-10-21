@@ -12,7 +12,7 @@
 1º A|Heithor|Título|#Link|Autor(es)
 1º A|Helena|Lena suplementos|https://helenagouveia-code.github.io/lena_suplementos/|Helena
 1º A|Henry|Título|#Link|Autor(es)
-1º A|Hevellyn|Viagem dos Sonhos|https://hevellynsouzaarntes16.github.io/site-individual/|Hevellyn
+1º A|Hevellyn|Viagem dos Sonhos|https://github.com/hevellynsouzaarntes16/site-individual/|Hevellyn
 1º A|Isabella|Título|#Link|Autor(es)
 1º A|Kaique|Somar|https://kaiquecunha-cloud.github.io/kaique19cm/|Kaique
 1º A|Kayon|Saúde e Bem-Estar|https://kayonmoraes-stack.github.io/trabalho-individual/|Kayon
@@ -177,6 +177,7 @@
 3º B|Rayssa|Título|#Link|Autor(es)
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
