@@ -159,7 +159,7 @@
 3º A|Luiz Gustavo|Vamos falar sobre os tipos de computadores.|https://luiz-gustavo060.github.io/Tipos-de-Computador/|Luiz Gustavo
 3º A|Marcela|Título|#Link|Autor(es)
 3º A|Maria|Criação de modelos de roupas para marcas|https://marialeao16-boop.github.io/-maria/|Maria Eduarda
-3º A|Pablo|Um site simples sobre animes — notícias, curiosidades e recomendações.|pablopyetrosad.github.io/otaku-last/|Pablo Pyetro
+3º A|Pablo|Um site simples sobre animes — notícias, curiosidades e recomendações.|https://pablopyetrosad.github.io/otaku-last/|Pablo Pyetro
 3º A|Pedro|Título|#Link|Autor(es)
 3º A|Samuel|Este site sera para dar a sua opiniao sobre uma manga por favor tenha respeito ja que cada pessoa tem a sua propria opiniao.|https://samueloliveira22-ai.github.io/manga/|Samuel
 3º A|Yasmim|Título|#Link|Autor(es)
@@ -177,6 +177,7 @@
 3º B|Rayssa|Título|#Link|Autor(es)
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
