@@ -7,12 +7,12 @@
 1º A|Diêniffer|Olá mundo!|https://dieniffermenezes-gif.github.io/index.html/|Diêniffer
 1º A|Dyêmisson|Título|#Link|Autor(es)
 1º A|Emilly|Título|#Link|Autor(es)
-1º A|Estefany|Título|#Link|Autor(es)
+1º A|Estefany|FoodApp - Peça dos melhores restaurantes perto de você!|https://estefanysofia-svg.github.io/Estefany.sofia/|Estefany
 1º A|Fhaitton|Título|#Link|Autor(es)
 1º A|Heithor|Título|#Link|Autor(es)
 1º A|Helena|Lena suplementos|https://helenagouveia-code.github.io/lena_suplementos/|Helena
 1º A|Henry|Título|#Link|Autor(es)
-1º A|Hevellyn|Viagem dos Sonhos|https://github.com/hevellynsouzaarntes16/site-individual/|Hevellyn
+1º A|Hevellyn|Viagem dos Sonhos|https://hevellynsouzaarntes16.github.io/site-individual/|Hevellyn
 1º A|Isabella|Título|#Link|Autor(es)
 1º A|Kaique|Somar|https://kaiquecunha-cloud.github.io/kaique19cm/|Kaique
 1º A|Kayon|Saúde e Bem-Estar|https://kayonmoraes-stack.github.io/trabalho-individual/|Kayon
@@ -22,7 +22,7 @@
 1º A|Maria Vitória|Título|#Link|Autor(es)
 1º A|Matheus Gabriel|Título|#Link|Autor(es)
 1º A|Náthaly|Título|#Link|Autor(es)
-1º A|Pedro Lucas|Título|#Link|Autor(es)
+1º A|Pedro Lucas|Floricultura Jardim Encantado 🌿 Flores para todos os momentos|https://pedrolima146-coder.github.io/Pedro.Lucas/|Pedro Lucas
 1º A|Talya|Título|#Link|Autor(es)
 1º A|Thiesa|Simulação de IA|https://thiesasousa-lab.github.io/thiessa/|Thiesa
 1º A|Victor|Título|#Link|Autor(es)
@@ -129,7 +129,7 @@
 2º C|Cibele|Título|#Link|Autor(es)
 2º C|Daniel Xavier|Título|#Link|Autor(es)
 2º C|Divino|Título|#Link|Autor(es)
-2º C|Gabriela|Título|#Link|Autor(es)
+2º C|Gabriela|Vitoriana - Loja de roupas femininas|https://gabrielamartins3-byte.github.io/Vitoriana/|Gabriela
 2º C|Izabelly|Título|#Link|Autor(es)
 2º C|Jhully|Título|#Link|Autor(es)
 2º C|Kaue|Título|#Link|Autor(es)
@@ -137,10 +137,10 @@
 2º C|Luiz Henrique|Título|#Link|Autor(es)
 2º C|Maria Eduarda|Título|#Link|Autor(es)
 2º C|Osmar|Título|#Link|Autor(es)
-2º C|Pabline|Título|#Link|Autor(es)
+2º C|Pabline|Loja online de roupas fits|https://pablinesilva3.github.io/Priscila-Fitwaer/|Pabline
 2º C|Pedro|Título|#Link|Autor(es)
 2º C|Reminton|Título|#Link|Autor(es)
-2º C|Roberta|Título|#Link|Autor(es)
+2º C|Roberta|Título|https://robertaheloar-cloud.github.io/meu-site|Roberta
 2º C|Ruan|Título|#Link|Autor(es)
 2º C|Sthefany|Título|#Link|Autor(es)
 2º C|Wilkner|Bem-vindo ao meu espaço pessoal na web, onde compartilho um pouco sobre mim, minhas experiências e as coisas que amo.|https://wilunderline.github.io/meusiteiradodelegaldemaneiro/|Wilkner
@@ -177,6 +177,7 @@
 3º B|Rayssa|Título|#Link|Autor(es)
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
