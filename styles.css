@@ -1,235 +1,299 @@
-/* Paleta de Cores (Suavizada e Profissional) */
+/* ================================
+   🌿 ESTILO PROFISSIONAL E SUAVE
+   ================================ */
+
+/* Paleta de Cores */
 :root {
-    --primary-color: #007bff;     /* Azul padrão para destaques */
-    --link-button-color: #28a745; /* Verde para botão de link (suave) */
-    --link-button-hover: #218838;
-    --dark-text: #343a40;         /* Texto principal escuro */
-    --secondary-color: #6c757d;   /* Cinza para texto secundário */
-    --light-bg: #f8f9fa;          /* Fundo suave (quase branco) */
-    --card-bg: #ffffff;
-    --construction-bg: #ffe0b2;   /* Laranja/Amarelo muito suave para 'Em Construção' */
-    --construction-border: #ff9800; /* Laranja para a borda de 'Em Construção' */
-    --filter-bg: #e9ecef;         /* Fundo suave para filtros */
+  --primary-color: #007bff;
+  --link-button-color: #28a745;
+  --link-button-hover: #218838;
+  --dark-text: #2d3436;
+  --secondary-color: #6c757d;
+  --light-bg: #f8f9fa;
+  --card-bg: #ffffff;
+  --construction-bg: #ffe8cc;
+  --construction-border: #ff9800;
+  --filter-bg: #edf2f7;
 }
 
+/* ================================
+   Corpo e Estrutura
+   ================================ */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: var(--light-bg);
-    color: var(--dark-text);
-    line-height: 1.6;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--light-bg);
+  color: var(--dark-text);
+  line-height: 1.7;
+  scroll-behavior: smooth;
 }
 
+/* ================================
+   Cabeçalho
+   ================================ */
 header {
-    background-color: var(--card-bg);
-    padding: 30px 20px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
-    text-align: center;
-    margin-bottom: 20px;
+  background-color: var(--card-bg);
+  padding: 40px 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin-bottom: 30px;
 }
 
 h1 {
-    color: var(--primary-color);
-    margin-bottom: 5px;
-    font-size: 2.5em;
-    font-weight: 600;
+  color: var(--primary-color);
+  margin-bottom: 10px;
+  font-size: 2.6em;
+  font-weight: 700;
+  letter-spacing: 0.5px;
 }
 
 h2 {
-    color: var(--dark-text);
-    padding-bottom: 5px;
-    margin-top: 10px;
-    font-size: 1.8em;
+  color: var(--dark-text);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 1.8em;
 }
 
 header p {
-    color: var(--secondary-color);
-    max-width: 800px;
-    margin: 5px auto;
+  color: var(--secondary-color);
+  max-width: 850px;
+  margin: 10px auto 0;
+  font-size: 1.05rem;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.8;
+  text-indent: 2em;
 }
 
-
-/* --- Container das Logos (CORES ORIGINAIS, EFEITO MANTIDO) --- */
-
+/* ================================
+   Logomarcas (com efeito flutuante)
+   ================================ */
 .logos-container {
-    display: flex;
-    justify-content: center;
-    gap: 40px;
-    margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin: 40px 0 20px;
+  flex-wrap: wrap;
 }
 
 .logo-item {
-    position: relative;
-    width: 100px;
-    height: 100px;
-    overflow: visible;
-    cursor: pointer;
-    text-align: center;
+  position: relative;
+  width: 110px;
+  height: 110px;
+  cursor: pointer;
+  text-align: center;
+  transition: transform 0.3s ease;
 }
 
 .logo-item img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    transition: transform 0.3s ease-in-out;
-    /* REMOVIDO: filter: grayscale(100%); e opacity */
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
 }
 
 .logo-item:hover img {
-    transform: scale(1.05); /* Suaviza o efeito de hover */
+  transform: scale(1.08);
 }
 
 .logo-item p {
-    position: absolute;
-    top: 100%; 
-    left: 50%;
-    transform: translate(-50%, 5px); 
-    width: 200px;
-    background-color: var(--dark-text); /* Fundo escuro para o texto flutuante */
-    color: var(--card-bg);
-    padding: 8px 10px;
-    border-radius: 4px;
-    margin: 0;
-    opacity: 0; /* Esconde por padrão */
-    pointer-events: none;
-    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
-    box-sizing: border-box;
-    font-size: 0.85em;
-    z-index: 10;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, 8px);
+  width: 220px;
+  background-color: rgba(52, 58, 64, 0.95);
+  color: var(--card-bg);
+  padding: 8px 10px;
+  border-radius: 6px;
+  margin: 0;
+  opacity: 0;
+  pointer-events: none;
+  font-size: 0.85em;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+  z-index: 10;
 }
 
 .logo-item:hover p {
-    opacity: 1;
-    transform: translate(-50%, 15px);
+  opacity: 1;
+  transform: translate(-50%, 20px);
 }
 
-
-/* --- Navegação e Filtros --- */
-
+/* ================================
+   Navegação e Filtros
+   ================================ */
 nav {
-    margin-bottom: 20px;
+  margin-bottom: 25px;
+  text-align: center;
 }
 
 nav a {
-    text-decoration: none;
-    color: var(--primary-color);
-    font-weight: 500;
-    margin: 0 10px;
-    padding: 8px 15px;
-    border-radius: 20px;
-    transition: all 0.3s;
+  text-decoration: none;
+  color: var(--primary-color);
+  font-weight: 500;
+  margin: 0 8px;
+  padding: 8px 16px;
+  border-radius: 20px;
+  transition: all 0.3s;
 }
 
 nav a.active {
-    background-color: var(--primary-color);
-    color: white;
+  background-color: var(--primary-color);
+  color: white;
+  font-weight: 600;
 }
 
 nav a:hover:not(.active) {
-    background-color: var(--filter-bg);
+  background-color: var(--filter-bg);
 }
 
 .filtros {
-    margin: 20px 0 0;
-    padding: 15px 0;
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    background-color: var(--filter-bg); /* Fundo suave */
-    border-radius: 8px;
+  margin: 25px auto;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background-color: var(--filter-bg);
+  border-radius: 10px;
+  flex-wrap: wrap;
 }
 
 .filtros label {
-    font-weight: 500;
+  font-weight: 500;
+  color: var(--dark-text);
 }
 
-.filtros select, .filtros input {
-    padding: 8px 12px;
-    border: 1px solid #ced4da;
-    border-radius: 4px;
-    font-size: 1em;
-    color: var(--dark-text);
+.filtros select,
+.filtros input {
+  padding: 8px 12px;
+  border: 1px solid #ced4da;
+  border-radius: 6px;
+  font-size: 1em;
+  color: var(--dark-text);
+  background-color: white;
 }
 
-
-/* --- Lista de Projetos (Retorno ao estilo anterior com cores suaves) --- */
-
+/* ================================
+   Área principal
+   ================================ */
 main {
-    padding: 0 20px 40px;
-    max-width: 1200px;
-    margin: auto;
+  padding: 0 25px 50px;
+  max-width: 1200px;
+  margin: auto;
 }
 
 #lista-projetos {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 25px;
 }
 
+/* ================================
+   Cards de Projeto
+   ================================ */
 .projeto-card {
-    background-color: var(--card-bg);
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 15px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-    transition: transform 0.2s, box-shadow 0.2s;
+  background-color: var(--card-bg);
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 18px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 .projeto-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .projeto-card h3 {
-    margin-top: 0;
-    color: var(--primary-color);
-    font-size: 1.3em;
-    font-weight: 600;
+  margin-top: 0;
+  color: var(--primary-color);
+  font-size: 1.25em;
+  font-weight: 600;
 }
 
 .projeto-card p {
-    margin: 5px 0;
-    font-size: 0.9em;
-    color: var(--dark-text); /* Texto do card mais visível */
+  margin: 5px 0;
+  font-size: 0.95em;
+  color: var(--dark-text);
+  text-align: justify;
 }
 
+/* Links dos projetos */
 .projeto-card a {
-    display: inline-block;
-    margin-top: 10px;
-    padding: 8px 15px;
-    background-color: var(--link-button-color);
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: 500;
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 14px;
+  background-color: var(--link-button-color);
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
 }
 
 .projeto-card a:hover {
-    background-color: var(--link-button-hover);
+  background-color: var(--link-button-hover);
 }
 
-/* Estilo para projeto EM CONSTRUÇÃO (com cor suave) */
+/* ================================
+   Estados Especiais
+   ================================ */
 .projeto-em-construcao {
-    background-color: var(--construction-bg); /* Amarelo/Laranja BEM suave */
-    border: 1px solid var(--construction-border);
-    border-left: 5px solid var(--construction-border); /* Borda mais fina e visível */
+  background-color: var(--construction-bg);
+  border: 1px solid var(--construction-border);
+  border-left: 6px solid var(--construction-border);
 }
 
 .projeto-em-construcao a {
-    background-color: var(--secondary-color); /* Cinza para botão inativo */
-    cursor: default;
+  background-color: var(--secondary-color);
+  cursor: not-allowed;
 }
 
 .projeto-em-construcao a:hover {
-    background-color: var(--secondary-color);
+  background-color: var(--secondary-color);
 }
 
-/* Mensagem de Sem Resultados */
+/* Cor do status online/offline */
+.project-online {
+  border-left: 6px solid #28a745;
+}
+
+.project-offline {
+  border-left: 6px solid #dc3545;
+}
+
+/* ================================
+   Mensagens
+   ================================ */
 .sem-resultados {
-    grid-column: 1 / -1;
-    text-align: center;
-    padding: 50px;
-    font-size: 1.2em;
-    color: var(--secondary-color);
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 60px;
+  font-size: 1.15em;
+  color: var(--secondary-color);
+}
+
+/* ================================
+   Responsividade
+   ================================ */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2em;
+  }
+
+  .logos-container {
+    gap: 30px;
+  }
+
+  .logo-item {
+    width: 90px;
+    height: 90px;
+  }
+
+  #lista-projetos {
+    grid-template-columns: 1fr;
+  }
 }
