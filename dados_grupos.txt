@@ -1,4 +1,4 @@
-1º A|Livraria Digital|Venda de e-books e audiolivros|#Link|Ana Paula, Dhovana, Larissa, Pedro Lucas, Talya
+1º A|Livraria Digital|Venda de e-books e audiolivros|https://dhovana.github.io/Biblioteca-Digital-/|Ana Paula, Dhovana, Larissa, Pedro Lucas, Talya
 1º A|Agência de Turismo para PCDs|Roteiros acessíveis para pessoas com deficiência|https://thiesasousa-lab.github.io/projeto-Rodrigo/|Ana Cristina, Diêniffer, Helena, Henry, Kayon, Maria Vitória, Thiesa, Victor Ricardo
 1º A|Plataforma de Aulas para Surdos e Mudos|Educação em Libras|https://emillyar.github.io/time-4-site-de-libras/|Emilly Vitória, Heithor, Isabella, Kaique Antôny
 1º A|Empresa de Desenvolvimento de Software|Aplicativos web e mobile|https://annylu1z4.github.io/Desenvolvimento-web-e-mobile-time5/|Alexandre, Anny Luiza, Fhaitton, Hevellyn, Lucas Antônio, Luiz Felipe, Matheus
@@ -45,6 +45,7 @@
 
 3º B|Desenvolvedora de Games|Jogos para mobile, PC e consoles|https://sthefanebrito.github.io/Projeto-kitty-/|Carlos Júnior, Felype, Gabriel, Jamilly Vitória, Jean Matheus, Maria Luara, Marjory, Sthefane
 3º B|Portal de Ensino de Educação Financeira|Conteúdo sobre investimentos e gestão financeira|https://theus450.github.io/Projeto-EvoCoin/|Daniel, Hericky, Matheus, Paulo Ricardo, Rayssa Thayná, Yasmim
+
 
 
 
