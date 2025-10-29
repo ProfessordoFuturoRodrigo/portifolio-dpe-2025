@@ -110,7 +110,7 @@
 2º B|Carlos Eduardo|Título|#Link|Autor(es)
 2º B|Danilo|Calculadora de Média Escolar|https://danilolopesfilho-dotcom.github.io/Calculadora-de-Media-Escolar-Cepi/|Danilo
 2º B|Eduardo Góes|Título|#Link|Autor(es)
-2º B|Elóah|Título|#Link|Autor(es)
+2º B|Elóah|Validador de Dados|https://e04ah.github.io/Eloah-2B-individual/|Elóah
 2º B|Emilly|Título|#Link|Autor(es)
 2º B|Erycka|Título|#Link|Autor(es)
 2º B|Fernando|Título|#Link|Autor(es)
@@ -177,6 +177,7 @@
 3º B|Rayssa|Título|#Link|Autor(es)
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
