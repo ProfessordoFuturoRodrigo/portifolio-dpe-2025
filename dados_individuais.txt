@@ -114,7 +114,7 @@
 2º B|Emilly|Título|#Link|Autor(es)
 2º B|Erycka|Título|#Link|Autor(es)
 2º B|Fernando|Título|#Link|Autor(es)
-2º B|Gustavo|Título|#Link|Autor(es)
+2º B|Gustavo|Validação de E-mail e Telefone|https://gustavooliveira34-prog.github.io/meu-primeiro-site-projeto-integrador/|Gustavo
 2º B|Igo|Calculadora|https://igooliveira-commits.github.io/calculadora/|Igo
 2º B|Laila|Título|#Link|Autor(es)
 2º B|Luys|Título|#Link|Autor(es)
@@ -177,6 +177,7 @@
 3º B|Rayssa|Título|#Link|Autor(es)
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
