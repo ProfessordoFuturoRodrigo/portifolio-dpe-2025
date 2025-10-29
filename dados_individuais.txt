@@ -25,13 +25,13 @@
 1º A|Pedro Lucas|Floricultura Jardim Encantado 🌿 Flores para todos os momentos|https://pedrolima146-coder.github.io/Pedro.Lucas/|Pedro Lucas
 1º A|Talya|Título|#Link|Autor(es)
 1º A|Thiesa|Simulação de IA|https://thiesasousa-lab.github.io/thiessa/|Thiesa
-1º A|Victor|Título|#Link|Autor(es)
+1º A|Victor|Roupas masculinas Nike Dri-FIT|https://vkoviskylindo.github.io/roupas-dri-fit-nike/|Victor
 
 1º B|Ana Karolyna|Título|#Link|Autor(es)
 1º B|Ana Luiza|Cuidadores Profissionais|https://analuizabarbosa7-hue.github.io/meu-primeiro-site/|Ana Luiza
 1º B|Anna Luiza|Título|#Link|Autor(es)
 1º B|Anny Gabrielle|Título|#Link|Autor(es)
-1º B|Anny Stefanny|Título|#Link|Autor(es)
+1º B|Anny Stefanny|Muay Thai|https://annystefanny-crypto.github.io/annystefanny/|Anny Stefanny
 1º B|Bárbara|Cabelos Hidratados|https://barbarahonorato-rgb.github.io/cuidados-para-cabelo-/|Bárbara
 1º B|Cloves|Título|#Link|Autor(es)
 1º B|David|Kaká - Lenda do Futebol|https://davidweslleyjesus-alt.github.io/kaka/|David
@@ -126,16 +126,16 @@
 
 2º C|Alessandra|Título|#Link|Autor(es)
 2º C|Carlos Victor|Título|#Link|Autor(es)
-2º C|Cibele|Título|#Link|Autor(es)
+2º C|Cibele|Validador|https://cibelefelix-prog.github.io/mundo-das-makes/|Cibele
 2º C|Daniel Xavier|Título|#Link|Autor(es)
 2º C|Divino|Título|#Link|Autor(es)
 2º C|Gabriela|Vitoriana - Loja de roupas femininas|https://gabrielamartins3-byte.github.io/Vitoriana/|Gabriela
 2º C|Izabelly|Título|#Link|Autor(es)
-2º C|Jhully|Título|#Link|Autor(es)
+2º C|Jhully Emilly|Validador|https://jhullychaves-oss.github.io/Mundo-Infantil/|Jhully Emilly
 2º C|Kaue|Título|#Link|Autor(es)
 2º C|Kayky|Título|#Link|Autor(es)
 2º C|Luiz Henrique|Título|#Link|Autor(es)
-2º C|Maria Eduarda|Título|#Link|Autor(es)
+2º C|Maria Eduarda|Joalheria|https://mariasouza234-a11y.github.io/LYS/|Maria Eduarda
 2º C|Osmar|Título|#Link|Autor(es)
 2º C|Pabline|Loja online de roupas fits|https://pablinesilva3.github.io/Priscila-Fitwaer/|Pabline
 2º C|Pedro|Título|#Link|Autor(es)
@@ -158,10 +158,10 @@
 3º A|Kayky|Título|#Link|Autor(es)
 3º A|Luiz Gustavo|Vamos falar sobre os tipos de computadores.|https://luiz-gustavo060.github.io/Tipos-de-Computador/|Luiz Gustavo
 3º A|Marcela|Título|#Link|Autor(es)
-3º A|Maria|Criação de modelos de roupas para marcas|https://marialeao16-boop.github.io/-maria/|Maria Eduarda
+3º A|Maria Eduarda|Criação de modelos de roupas para marcas|https://marialeao16-boop.github.io/-maria/|Maria Eduarda
 3º A|Pablo|Um site simples sobre animes — notícias, curiosidades e recomendações.|https://pablopyetrosad.github.io/otaku-last/|Pablo Pyetro
-3º A|Pedro|Título|#Link|Autor(es)
-3º A|Samuel|Este site sera para dar a sua opiniao sobre uma manga por favor tenha respeito ja que cada pessoa tem a sua propria opiniao.|https://samueloliveira22-ai.github.io/manga/|Samuel
+3º A|Pedro|Detalhes automtivo sobre carros alemães!|http://ppedroxvr.github.io/solo|Pedro
+3º A|Samuel|Este site sobre mangá|https://samueloliveira22-ai.github.io/manga/|Samuel
 3º A|Yasmim|Título|#Link|Autor(es)
 
 3º B|Carlos Junio|Título|#Link|Autor(es)
@@ -177,6 +177,7 @@
 3º B|Rayssa|Título|#Link|Autor(es)
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
