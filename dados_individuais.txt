@@ -39,17 +39,17 @@
 1º B|Felipe|Sport Club Corinthians Paulista|https://felipelima25-lang.github.io/grupo-5/|Felipe
 1º B|Keven|Loja é produtos esportivos|https://kendo07lord.github.io/teste-individual/|Keven
 1º B|Lara|Sobre as Flores|https://laracristinas.github.io/individual/|Lara
-1º B|Lucas Felipe|Título|#Link|Autor(es)
+1º B|Lucas Felipe|A História de Neymar Jr|https://lucasfeliperibeiro1-lang.github.io/Carreira-de-Neymar/|Lucas Felipe
 1º B|Lucas Gabryel|Título|#Link|Autor(es)
 1º B|Marcela|Beleza Radiante|https://marcelafernandesmarinho-a11y.github.io/doces/|Marcela
 1º B|Maria Paula|Título|#Link|Autor(es)
 1º B|Maria Rita|Título|#Link|Autor(es)
 1º B|Nycole|Produtos de Beleza|https://nycolefernanda-netizen.github.io/individual/|Nycole
 1º B|Rafael Joaquim|Olá Mundo!|https://orafaell.github.io/Meu-Primeiro-Site/|Rafael Joaquim
-1º B|Renan|Título|#Link|Autor(es)
+1º B|Renan|Olá Mundo!|https://renanalveslopes-commits.github.io/Meu-primeiro-site/|Renan
 1º B|Sofia|BY SOFY|https://sofiasilva2-lgtm.github.io/PI-individual/|Sofia
 1º B|Tauane|Jogos|https://tauane-ai.github.io/powerGame/|Tauane
-1º B|Thania|Título|#Link|Autor(es)
+1º B|Thania|MINHA LOJA|https://thaniabrito-rgb.github.io/closet-my-luxo/|Thania
 1º B|Thaylla|Artes em Crochê da Maria|https://thayllapires-hash.github.io/Gil-Croche-/|Thaylla
 1º B|Wallace|Título|https://wallacelimasouza-ai.github.io/meuprimeirosite/|Wallace
 1º B|Warley|Título|#Link|Autor(es)
@@ -145,9 +145,9 @@
 2º C|Wryel|Título|#Link|Autor(es)
 
 3º A|Anny Gabrielly|Arte em desenvolvimento|https://annyluz1-2026.github.io/Art-desing/|Anny Gabrielly
-3º A|Carlos Alexandre|Filmes e séries ilimitados|https://totelis.github.io/Trabalho_do_4Bimestre/|Carlos Alexandre
+3º A|Carlos Alexandre|Filmes e séries ilimitados|https://totelis.github.io/Trabalho2/|Carlos Alexandre
 3º A|Carlos Eduardo|Smartwatch: Tecnologia no Seu Pulso|https://carlosmatos2-bit.github.io/Rel-gios-smartwatch/|Carlos Eduardo
-3º A|Cauã|Título|#Link|Autor(es)
+3º A|Cauã|🎬 Catálogo de Filmes|https://cauax777.github.io/grupo3/|Cauã  
 3º A|Daniel|Título|#Link|Autor(es)
 3º A|Felipe|Título|#Link|Autor(es)
 3º A|Jhonathan|Futebol|http://jhonathancandido-create.github.io/jhonathan|Jhonathan
@@ -160,19 +160,18 @@
 3º A|Pablo|Um site simples sobre animes — notícias, curiosidades e recomendações.|https://pablopyetrosad.github.io/otaku-last/|Pablo Pyetro
 3º A|Pedro|Detalhes automtivo sobre carros alemães!|http://ppedroxvr.github.io/solo|Pedro
 3º A|Samuel|Este site sobre mangá|https://samueloliveira22-ai.github.io/manga/|Samuel
-3º A|Yasmim|Título|#Link|Autor(es)
+3º A|Yasmim|Livros|https://yasmimpereira43.github.io/Livros-e-Luz/|Yasmim
 
 3º B|Carlos Junio|Título|#Link|Autor(es)
 3º B|Daniel|Título|#Link|Autor(es)
 3º B|Gabriel|Título|#Link|Autor(es)
 3º B|Hericky|Jogos e Esportes|https://herickygo.github.io/jogos/|Hericky
-3º B|Jamilly|Título|#Link|Autor(es)
-3º B|Jean|Título|#Link|Autor(es)
+3º B|Jamilly|Maquiagens|https://milly-alt.github.io/Glamour-Galaxy/|Jamilly
+3º B|Jean|Título|https://jeansantos44-rgb.github.io/Titeres-munecos-y-fantoches/|Jean
 3º B|Maria Luara|Título|#Link|Autor(es)
 3º B|Marjory|Título|#Link|Autor(es)
 3º B|Matheus|Título|#Link|Autor(es)
 3º B|Paulo|Título|#Link|Autor(es)
-3º B|Rayssa|Título|#Link|Autor(es)
+3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
-
