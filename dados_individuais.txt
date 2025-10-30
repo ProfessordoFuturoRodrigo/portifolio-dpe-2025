@@ -33,13 +33,12 @@
 1º B|Anny Gabrielle|Título|#Link|Autor(es)
 1º B|Anny Stefanny|Muay Thai|https://annystefanny-crypto.github.io/annystefanny/|Anny Stefanny
 1º B|Bárbara|Cabelos Hidratados|https://barbarahonorato-rgb.github.io/cuidados-para-cabelo-/|Bárbara
-1º B|Cloves|Título|#Link|Autor(es)
+1º B|Cloves|Título|https://clovesfilho-maker.github.io/jogo-de-cloves/|Autor(es)
 1º B|David|Kaká - Lenda do Futebol|https://davidweslleyjesus-alt.github.io/kaka/|David
 1º B|Evelyn|Moda 2025|https://evelynkarolline-wq.github.io/site-individual/|Evelyn
 1º B|Felipe|Sport Club Corinthians Paulista|https://felipelima25-lang.github.io/grupo-5/|Felipe
 1º B|Keven|Loja é produtos esportivos|https://kendo07lord.github.io/teste-individual/|Keven
 1º B|Lara|Sobre as Flores|https://laracristinas.github.io/individual/|Lara
-1º B|Lara|Sobre as Flores|https://laracristinas.github.io/floricultura-bela-flor/|Lara
 1º B|Lucas Felipe|Título|#Link|Autor(es)
 1º B|Lucas Gabryel|Título|#Link|Autor(es)
 1º B|Marcela|Beleza Radiante|https://marcelafernandesmarinho-a11y.github.io/doces/|Marcela
@@ -49,8 +48,7 @@
 1º B|Rafael Joaquim|Olá Mundo!|https://orafaell.github.io/Meu-Primeiro-Site/|Rafael Joaquim
 1º B|Renan|Título|#Link|Autor(es)
 1º B|Sofia|BY SOFY|https://sofiasilva2-lgtm.github.io/PI-individual/|Sofia
-1º B|Sofia|BY SOFY|https://sofiasilva2-lgtm.github.io/site/|Sofia
-1º B|Tauane|Jogos|https://tauane-ai.github.io/jogos-cepi/|Tauane
+1º B|Tauane|Jogos|https://tauane-ai.github.io/powerGame/|Tauane
 1º B|Thania|Título|#Link|Autor(es)
 1º B|Thaylla|Artes em Crochê da Maria|https://thayllapires-hash.github.io/Gil-Croche-/|Thaylla
 1º B|Wallace|Título|https://wallacelimasouza-ai.github.io/meuprimeirosite/|Wallace
@@ -177,3 +175,4 @@
 3º B|Rayssa|Título|#Link|Autor(es)
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
