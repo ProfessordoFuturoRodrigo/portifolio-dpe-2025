@@ -148,14 +148,14 @@
 
 3º A|Anny Gabrielly|Arte em desenvolvimento|https://annyluz1-2026.github.io/Art-desing/|Anny Gabrielly
 3º A|Carlos Alexandre|Filmes e séries ilimitados|https://totelis.github.io/Trabalho_do_4Bimestre/|Carlos Alexandre
-3º A|Carlos Eduardo|Título|#Link|Autor(es)
+3º A|Carlos Eduardo|Smartwatch: Tecnologia no Seu Pulso|https://carlosmatos2-bit.github.io/Rel-gios-smartwatch/|Carlos Eduardo
 3º A|Cauã|Título|#Link|Autor(es)
 3º A|Daniel|Título|#Link|Autor(es)
 3º A|Felipe|Título|#Link|Autor(es)
-3º A|Jhonathan|Título|#Link|Autor(es)
-3º A|João|Título|#Link|Autor(es)
+3º A|Jhonathan|Futebol|http://jhonathancandido-create.github.io/jhonathan|Jhonathan
+3º A|João Vitor|Saúde e Autocuidado|https://joaoolv25.github.io/site-individual-projeto-integrador/|João Vitor
 3º A|Kaio|Vendas de produtos variados em atacado ou varejo|https://kaiomiguelroiz.github.io/kaio-miguel/|Kaio
-3º A|Kayky|Título|#Link|Autor(es)
+3º A|Kayky|🎮 Mundo dos Jogos|https://kayky22goti.github.io/jogos-diversos/|Kayky
 3º A|Luiz Gustavo|Vamos falar sobre os tipos de computadores.|https://luiz-gustavo060.github.io/Tipos-de-Computador/|Luiz Gustavo
 3º A|Marcela|Título|#Link|Autor(es)
 3º A|Maria Eduarda|Criação de modelos de roupas para marcas|https://marialeao16-boop.github.io/-maria/|Maria Eduarda
@@ -167,7 +167,7 @@
 3º B|Carlos Junio|Título|#Link|Autor(es)
 3º B|Daniel|Título|#Link|Autor(es)
 3º B|Gabriel|Título|#Link|Autor(es)
-3º B|Hericky|Título|#Link|Autor(es)
+3º B|Hericky|Jogos e Esportes|https://herickygo.github.io/jogos/|Hericky
 3º B|Jamilly|Título|#Link|Autor(es)
 3º B|Jean|Título|#Link|Autor(es)
 3º B|Maria Luara|Título|#Link|Autor(es)
@@ -177,14 +177,3 @@
 3º B|Rayssa|Título|#Link|Autor(es)
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
-
-
-
-
-
-
-
-
-
-
-
