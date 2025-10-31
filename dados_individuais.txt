@@ -33,7 +33,7 @@
 1º B|Anny Gabrielle|Título|#Link|Autor(es)
 1º B|Anny Stefanny|Muay Thai|https://annystefanny-crypto.github.io/annystefanny/|Anny Stefanny
 1º B|Bárbara|Cabelos Hidratados|https://barbarahonorato-rgb.github.io/cuidados-para-cabelo-/|Bárbara
-1º B|Cloves|Título|https://clovesfilho-maker.github.io/jogo-de-cloves/|Autor(es)
+1º B|Cloves|Jogo do Quadrado|https://clovesfilho-maker.github.io/jogo-de-cloves/|Cloves
 1º B|David|Kaká - Lenda do Futebol|https://davidweslleyjesus-alt.github.io/kaka/|David
 1º B|Evelyn|Moda 2025|https://evelynkarolline-wq.github.io/site-individual/|Evelyn
 1º B|Felipe|Sport Club Corinthians Paulista|https://felipelima25-lang.github.io/grupo-5/|Felipe
@@ -175,4 +175,5 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
