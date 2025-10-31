@@ -42,7 +42,7 @@
 1º B|Lucas Felipe|A História de Neymar Jr|https://lucasfeliperibeiro1-lang.github.io/Carreira-de-Neymar/|Lucas Felipe
 1º B|Lucas Gabryel|Título|#Link|Autor(es)
 1º B|Marcela|Beleza Radiante|https://github.com/marcelafernandesmarinho-a11y/Pink-Makeup|Marcela
-1º B|Maria Paula|Título|#Link|Autor(es)
+1º B|Maria Paula|Beleza acessível para todas! 💄|https://mariacarvalho58-arch.github.io/meu-primeiro-site/|Maria Paula
 1º B|Maria Rita|Título|#Link|Autor(es)
 1º B|Nycole|Produtos de Beleza|https://nycolefernanda-netizen.github.io/individual/|Nycole
 1º B|Rafael Joaquim|Olá Mundo!|https://orafaell.github.io/Meu-Primeiro-Site/|Rafael Joaquim
@@ -175,5 +175,6 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
