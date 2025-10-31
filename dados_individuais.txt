@@ -36,7 +36,7 @@
 1º B|Cloves|Jogo do Quadrado|https://clovesfilho-maker.github.io/jogo-de-cloves/|Cloves
 1º B|David|Kaká - Lenda do Futebol|https://davidweslleyjesus-alt.github.io/kaka/|David
 1º B|Evelyn|Moda 2025|https://evelynkarolline-wq.github.io/site-individual/|Evelyn
-1º B|Felipe|Sport Club Corinthians Paulista|https://felipelima25-lang.github.io/grupo-5/|Felipe
+1º B|Felipe|Jogo do Pulo|https://felipelima25-lang.github.io/Jogo-do-Pulo/|Felipe
 1º B|Keven|Loja é produtos esportivos|https://kendo07lord.github.io/teste-individual/|Keven
 1º B|Lara|Sobre as Flores|https://laracristinas.github.io/individual/|Lara
 1º B|Lucas Felipe|A História de Neymar Jr|https://lucasfeliperibeiro1-lang.github.io/Carreira-de-Neymar/|Lucas Felipe
@@ -175,6 +175,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
