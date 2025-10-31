@@ -24,7 +24,7 @@
 1º A|Náthaly|Título|#Link|Autor(es)
 1º A|Pedro Lucas|Floricultura Jardim Encantado 🌿 Flores para todos os momentos|https://pedrolima146-coder.github.io/Pedro.Lucas/|Pedro Lucas
 1º A|Talya|Título|#Link|Autor(es)
-1º A|Thiesa|Simulação de IA|https://thiesasousa-lab.github.io/thiessa/|Thiesa
+1º A|Thiesa|Simulação de IA|https://thiesasousa-lab.github.io/site_individual/|Thiesa
 1º A|Victor|Roupas masculinas Nike Dri-FIT|https://vkoviskylindo.github.io/roupas-dri-fit-nike/|Victor
 
 1º B|Ana Karolyna|Título|#Link|Autor(es)
@@ -41,7 +41,7 @@
 1º B|Lara|Sobre as Flores|https://laracristinas.github.io/individual/|Lara
 1º B|Lucas Felipe|A História de Neymar Jr|https://lucasfeliperibeiro1-lang.github.io/Carreira-de-Neymar/|Lucas Felipe
 1º B|Lucas Gabryel|Título|#Link|Autor(es)
-1º B|Marcela|Beleza Radiante|https://marcelafernandesmarinho-a11y.github.io/doces/|Marcela
+1º B|Marcela|Beleza Radiante|https://github.com/marcelafernandesmarinho-a11y/Pink-Makeup|Marcela
 1º B|Maria Paula|Título|#Link|Autor(es)
 1º B|Maria Rita|Título|#Link|Autor(es)
 1º B|Nycole|Produtos de Beleza|https://nycolefernanda-netizen.github.io/individual/|Nycole
@@ -175,3 +175,4 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
