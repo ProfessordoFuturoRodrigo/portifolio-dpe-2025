@@ -52,7 +52,7 @@
 1º B|Thania|MINHA LOJA|https://thaniabrito-rgb.github.io/closet-my-luxo/|Thania
 1º B|Thaylla|Artes em Crochê da Maria|https://thayllapires-hash.github.io/Gil-Croche-/|Thaylla
 1º B|Wallace|Título|https://wallacelimasouza-ai.github.io/meuprimeirosite/|Wallace
-1º B|Warley|Título|#Link|Autor(es)
+1º B|Warley|Título|https://warleysouzarocha-collab.github.io/siteindividual/|Warley
 1º B|Yusseff|Título|#Link|Autor(es)
 
 1º C|Amanda|Título|#Link|Autor(es)
@@ -175,6 +175,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
