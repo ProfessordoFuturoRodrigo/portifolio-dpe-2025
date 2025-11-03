@@ -18,7 +18,7 @@
 1º A|Kayon|Saúde e Bem-Estar|https://kayonmoraes-stack.github.io/trabalho-individual/|Kayon
 1º A|Larissa|Título|#Link|Autor(es)
 1º A|Lucas|Título|#Link|Autor(es)
-1º A|Luiz Felipe|Título|#Link|Autor(es)
+1º A|Luiz Felipe|Pelúcias oficiais dos seus jogos favoritos|https://luizfelipe-pereira.github.io/Teddy/|Luiz Felipe
 1º A|Maria Vitória|Título|#Link|Autor(es)
 1º A|Matheus Gabriel|Título|#Link|Autor(es)
 1º A|Náthaly|Título|#Link|Autor(es)
@@ -45,7 +45,7 @@
 1º B|Maria Paula|Beleza acessível para todas! 💄|https://mariacarvalho58-arch.github.io/meu-primeiro-site/|Maria Paula
 1º B|Maria Rita|Título|#Link|Autor(es)
 1º B|Nycole|Produtos de Beleza|https://nycolefernanda-netizen.github.io/individual/|Nycole
-1º B|Rafael Joaquim|Olá Mundo!|https://orafaell.github.io/Meu-Primeiro-Site/|Rafael Joaquim
+1º B|Rafael Joaquim|Explorando o Corpo Humano|https://orafaell.github.io/individual/|Rafael Joaquim
 1º B|Renan|Olá Mundo!|https://renanalveslopes-commits.github.io/Meu-primeiro-site/|Renan
 1º B|Sofia|BY SOFY|https://sofiasilva2-lgtm.github.io/PI-individual/|Sofia
 1º B|Tauane|Jogos|https://tauane-ai.github.io/powerGame/|Tauane
@@ -175,6 +175,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
