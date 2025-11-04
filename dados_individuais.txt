@@ -122,7 +122,6 @@
 2º B|Tony|Título|#Link|Autor(es)
 2º B|Wagner|Título|#Link|Autor(es)
 
-2º C|Alessandra|Título|#Link|Autor(es)
 2º C|Carlos Victor|Título|#Link|Autor(es)
 2º C|Cibele|Validador|https://cibelefelix-prog.github.io/mundo-das-makes/|Cibele
 2º C|Daniel Xavier|Título|#Link|Autor(es)
@@ -175,6 +174,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
