@@ -1,14 +1,14 @@
 1º A|Alencar|Título|#Link|Autor(es)
 1º A|Alexandre|Título|#Link|Autor(es)
-1º A|Ana Cristina|Título|#Link|Autor(es)
-1º A|Ana Paula|Título|#Link|Autor(es)
+1º A|Ana Cristina|BTS: Beyond The Scene|https://anasantos275-ui.github.io/nanacriss/|Ana Cristina
+1º A|Ana Paula|Pamonharia Delícias do Milho 🌽|https://anaserria-wq.github.io/ana.paula/|Ana Paula
 1º A|Anny|Título|https://annylu1z4.github.io/Site-Individual/|Anny
 1º A|Dhovana|Biblioteca Gótica Hello Kitty|https://dhovana.github.io/biblioteca/|Dhovana
 1º A|Diêniffer|Olá mundo!|https://dieniffermenezes-gif.github.io/index.html/|Diêniffer
 1º A|Dyêmisson|Título|#Link|Autor(es)
-1º A|Emilly|Título|#Link|Autor(es)
+1º A|Emilly|Açaí Mania|https://emillyar.github.io/a-ai.emilly/|Emilly
 1º A|Estefany|FoodApp - Peça dos melhores restaurantes perto de você!|https://estefanysofia-svg.github.io/Estefany.sofia/|Estefany
-1º A|Fhaitton|Título|#Link|Autor(es)
+1º A|Fhaitton|PixelPlay|https://fhaittonverissimo-bot.github.io/loja-de-jogos-2.0/|Fhaitton
 1º A|Heithor|Título|#Link|Autor(es)
 1º A|Helena|Lena suplementos|https://helenagouveia-code.github.io/lena_suplementos/|Helena
 1º A|Henry|Título|#Link|Autor(es)
@@ -16,9 +16,9 @@
 1º A|Isabella|Título|#Link|Autor(es)
 1º A|Kaique|Somar|https://kaiquecunha-cloud.github.io/kaique19cm/|Kaique
 1º A|Kayon|Saúde e Bem-Estar|https://kayonmoraes-stack.github.io/trabalho-individual/|Kayon
-1º A|Larissa|Título|#Link|Autor(es)
+1º A|Larissa|🔥 QUIZ MC KEVIN 🔥|https://larissacruzdias-ai.github.io/quiz/|Larissa
 1º A|Lucas|Título|#Link|Autor(es)
-1º A|Luiz Felipe|Pelúcias oficiais dos seus jogos favoritos|https://luizfelipe-pereira.github.io/Teddy/|Luiz Felipe
+1º A|Luiz Felipe|Pelúcias oficiais dos seus jogos favoritos|https://luizdomingues1-maker.github.io/luizcar/|Luiz Felipe
 1º A|Maria Vitória|Título|#Link|Autor(es)
 1º A|Matheus Gabriel|Título|#Link|Autor(es)
 1º A|Náthaly|Título|#Link|Autor(es)
@@ -137,7 +137,7 @@
 2º C|Pabline|Loja online de roupas fits|https://pablinesilva3.github.io/Priscila-Fitwaer/|Pabline
 2º C|Pedro|Título|#Link|Autor(es)
 2º C|Reminton|Título|#Link|Autor(es)
-2º C|Roberta|Título|https://robertaheloar-cloud.github.io/meu-site|Roberta
+2º C|Roberta|Roberta 💖|https://robertaheloar-cloud.github.io/site-pessoal/|Roberta
 2º C|Ruan|Título|#Link|Autor(es)
 2º C|Sthefany|Título|#Link|Autor(es)
 2º C|Wilkner|Bem-vindo ao meu espaço pessoal na web, onde compartilho um pouco sobre mim, minhas experiências e as coisas que amo.|https://wilunderline.github.io/meusiteiradodelegaldemaneiro/|Wilkner
@@ -174,6 +174,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
