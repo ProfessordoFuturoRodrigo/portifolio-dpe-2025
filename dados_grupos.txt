@@ -30,7 +30,7 @@
 2º B|Plataforma de Bolsas de Estudo|Conexão de estudantes com oportunidades acadêmicas|https://lailamireli-netizen.github.io/Bolsas-de-estudo-2B/|Danilo, Erycka, Gustavo, Laila Mireli
 2º B|Papelaria Criativa|Materiais escolares e personalizados|https://professordofuturorodrigo.github.io/em_constru-o/|Ana Clara, Carlos Eduardo, Luys Felype, Maria Eduarda, Wagner
 2º B|Centro de Terapia Holística|Meditação, yoga e acupuntura|https://professordofuturorodrigo.github.io/em_constru-o/|Eduardo Góes, Fernando Felype
-2º B|Agência de Marketing Digital|Criação de campanhas, SEO e redes sociais|https://professordofuturorodrigo.github.io/em_constru-o/|Igo, Silver, Tony
+2º B|Agência de Marketing Digital|Criação de campanhas, SEO e redes sociais|https://igooliveira-commits.github.io/Agencia-de-marketing-digital-e-SEO/|Igo, Silver, Tony
 2º B|Escola de Música Inclusiva|Ensino de música para pessoas com deficiência|https://e04ah.github.io/escola-de-musica-inclusiva-2-B/|Elóah, Emilly, Rayanny
 
 2º C|Centro de Estética e Cuidados Pessoais|Serviços de beleza e bem-estar|https://wilunderline.github.io/Centro-de-Estetica/|Carlos Victor, Kaue Henrique, Osmar, Wilkner Felipe
@@ -45,6 +45,7 @@
 
 3º B|Desenvolvedora de Games|Jogos para mobile, PC e consoles|https://sthefanebrito.github.io/Projeto-kitty-/|Carlos Júnior, Felype, Gabriel, Jamilly Vitória, Jean Matheus, Maria Luara, Marjory, Sthefane
 3º B|Portal de Ensino de Educação Financeira|Conteúdo sobre investimentos e gestão financeira|https://theus450.github.io/Projeto-EvoCoin/|Daniel, Hericky, Matheus, Paulo Ricardo, Rayssa Thayná, Yasmim
+
 
 
 
