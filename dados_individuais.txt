@@ -18,7 +18,7 @@
 1º A|Kayon|Saúde e Bem-Estar|https://kayonmoraes-stack.github.io/trabalho-individual/|Kayon
 1º A|Larissa|🔥 QUIZ MC KEVIN 🔥|https://larissacruzdias-ai.github.io/quiz/|Larissa
 1º A|Lucas|KNgames|https://lucas-acs-pro.github.io/KNgames-Website/Lucas
-1º A|Luiz Felipe|Título|#Link|Autor(es)
+1º A|Luiz Felipe|TurboDrive - Loja de Carros|https://luizdomingues1-maker.github.io/luizcar/|Luiz Felipe
 1º A|Maria Vitória|Título|#Link|Autor(es)
 1º A|Matheus Gabriel|Story Moda|https://matheus0022.github.io/Story-Moda/|Matheus Gabriel
 1º A|Náthaly|Título|#Link|Autor(es)
@@ -68,7 +68,7 @@
 1º C|Kayky|Título|#Link|Autor(es)
 1º C|Lucas José|Título|#Link|Autor(es)
 1º C|Lucas Lubachevski|Segurança|https://lucaslubachevski.github.io/seguranca/|Lucas Lubachevski
-1º C|Luiz Felipe|Pelúcias oficiais dos seus jogos favoritos|https://luizdomingues1-maker.github.io/luizcar/|Luiz Felipe
+1º C|Luiz Felipe|Pelúcias oficiais dos seus jogos favoritos|https://luizfelipe-pereira.github.io/Teddy/|Luiz Felipe
 1º C|Lukas|Título|#Link|Autor(es)
 1º C|Mauricio|Título|#Link|Autor(es)
 1º C|Murilo|Título|#Link|Autor(es)
@@ -174,6 +174,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
