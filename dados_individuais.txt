@@ -27,7 +27,7 @@
 1º A|Thiesa|Simulação de IA|https://thiesasousa-lab.github.io/site_individual/|Thiesa
 1º A|Victor|Roupas masculinas Nike Dri-FIT|https://vkoviskylindo.github.io/roupas-dri-fit-nike/|Victor
 
-1º B|Ana Karolyna|Título|#Link|Autor(es)
+1º B|Ana Karolyna|💋 Beleza Feminina|https://aninhalegal.github.io/glow-beuty/|Ana Karolyna
 1º B|Ana Luiza|Cuidadores Profissionais|https://analuizabarbosa7-hue.github.io/meu-primeiro-site/|Ana Luiza
 1º B|Anna Luiza|Título|#Link|Autor(es)
 1º B|Anny Gabrielle|Título|#Link|Autor(es)
@@ -53,7 +53,7 @@
 1º B|Thaylla|Artes em Crochê da Maria|https://thayllapires-hash.github.io/Gil-Croche-/|Thaylla
 1º B|Wallace|Título|https://wallacelimasouza-ai.github.io/meuprimeirosite/|Wallace
 1º B|Warley|Título|https://warleysouzarocha-collab.github.io/siteindividual/|Warley
-1º B|Yusseff|Título|#Link|Autor(es)
+1º B|Yusseff|Chelsea Football Club - The Blues|https://yusseffvieira-cmyk.github.io/historia-de-cria-o-do-chelsea-/|Yusseff
 
 1º C|Amanda|Título|#Link|Autor(es)
 1º C|Anna Beatriz|Make|https://annabeatriz5.github.io/make/|Anna Beatriz
@@ -174,6 +174,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
