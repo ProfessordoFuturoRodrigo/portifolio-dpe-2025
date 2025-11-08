@@ -102,7 +102,7 @@ header p {
   top: 100%;
   left: 50%;
   transform: translate(-50%, 8px);
-  width: 220px;
+  width: 300px;
   background-color: rgba(52, 58, 64, 0.95);
   color: var(--card-bg);
   padding: 8px 10px;
@@ -297,4 +297,5 @@ main {
     grid-template-columns: 1fr;
   }
 }
+
 
