@@ -1,4 +1,4 @@
-  1º A|Alencar|Título|#Link|Autor(es)
+1º A|Alencar|Título|#Link|Autor(es)
 1º A|Alexandre|Street Holy|https://xandy2009.github.io/site.xandy/|Alexandre
 1º A|Ana Cristina|BTS: Beyond The Scene|https://anasantos275-ui.github.io/nanacriss/|Ana Cristina
 1º A|Ana Paula|Pamonharia Delícias do Milho 🌽|https://anaserria-wq.github.io/ana.paula/|Ana Paula
@@ -174,6 +174,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Título|#Link|Autor(es)
+
 
 
 
