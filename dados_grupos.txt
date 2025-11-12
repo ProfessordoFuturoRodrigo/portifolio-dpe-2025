@@ -2,7 +2,7 @@
 1º A|Agência de Turismo para PCDs|Roteiros acessíveis para pessoas com deficiência|https://thiesasousa-lab.github.io/projeto-Rodrigo/|Ana Cristina, Diêniffer, Helena, Henry, Kayon, Maria Vitória, Thiesa, Victor Ricardo
 1º A|Plataforma de Aulas para Surdos e Mudos|Educação em Libras|https://emillyar.github.io/time-4-site-de-libras/|Emilly Vitória, Heithor, Isabella, Kaique Antôny
 1º A|Empresa de Desenvolvimento de Software|Aplicativos web e mobile|https://annylu1z4.github.io/Desenvolvimento-web-e-mobile-time5/|Alexandre, Anny Luiza, Fhaitton, Hevellyn, Lucas Antônio, Luiz Felipe, Matheus
-1º A|E-commerce de Produtos Veganos|Alimentação, cosméticos e roupas sem origem animal|https://professordofuturorodrigo.github.io/em_constru-o/|Alencar, Dyêmisson, Estefany
+1º A|E-commerce de Produtos Veganos|Alimentação, cosméticos e roupas sem origem animal|https://estefanysofia-svg.github.io/produtos-veganos/|Alencar, Dyêmisson, Estefany
 
 1º B|Site para Ensino de Robótica Educacional|Cursos e kits para escolas e estudante|https://professordofuturorodrigo.github.io/em_constru-o/|Ana Karolyna, Evelyn Karolline, Lara, Renan
 1º B|Academia para Pessoas com Deficiência|Treinamento adaptado e acessibilidade|https://professordofuturorodrigo.github.io/em_constru-o/|Anna Luiza, Anny Gabrielle, Maria Rita, Nycole, Sofia
@@ -30,12 +30,12 @@
 2º B|Plataforma de Bolsas de Estudo|Conexão de estudantes com oportunidades acadêmicas|https://lailamireli-netizen.github.io/Bolsas-de-estudo-2B/|Danilo, Erycka, Gustavo, Laila Mireli
 2º B|Papelaria Criativa|Materiais escolares e personalizados|https://professordofuturorodrigo.github.io/em_constru-o/|Ana Clara, Carlos Eduardo, Luys Felype, Maria Eduarda, Wagner
 2º B|Centro de Terapia Holística|Meditação, yoga e acupuntura|https://professordofuturorodrigo.github.io/em_constru-o/|Eduardo Góes, Fernando Felype
-2º B|Agência de Marketing Digital|Criação de campanhas, SEO e redes sociais|https://igooliveira-commits.github.io/Agencia-de-marketing-digital-e-SEO/|Igo, Silver, Tony
+2º B|Agência de Marketing Digital|NexSEO Agency|https://igooliveira-commits.github.io/grupo-4-agencia-de-marketing/|Igo, Silver, Tony
 2º B|Escola de Música Inclusiva|Ensino de música para pessoas com deficiência|https://e04ah.github.io/escola-de-musica-inclusiva-2-B/|Elóah, Emilly, Rayanny
 
 2º C|Centro de Estética e Cuidados Pessoais|Serviços de beleza e bem-estar|https://wilunderline.github.io/Centro-de-Estetica/|Carlos Victor, Kaue Henrique, Osmar, Wilkner Felipe
 2º C|Consultoria em Blockchain e Criptomoedas|Segurança e investimento em criptografia|https://professordofuturorodrigo.github.io/em_constru-o/|Daniel, Luiz, Pedro Henrique, Reminton
-2º C|Loja de Cosméticos Naturais|Produtos orgânicos e ecológicos|https://professordofuturorodrigo.github.io/em_constru-o/|Gabriela, Kayky, Maria Eduarda, Pabline, Roberta Heloar, Ruan Gabriel
+2º C|Loja de Cosméticos Naturais|Natura Bella|https://pablinesilva3.github.io/Natura-Bella/|Gabriela, Kayky, Maria Eduarda, Pabline, Roberta Heloar, Ruan Gabriel
 2º C|Escola de Idiomas para Baixa Renda|Aulas gratuitas ou a preços acessíveis|https://professordofuturorodrigo.github.io/em_constru-o/|Divino, Izabelly Maria, Wryel Kaio
 2º C|Mercado de Produtos Orgânicos|Hortifrúti e produtos naturais|https://professordofuturorodrigo.github.io/em_constru-o/|Cibele, Jhully Emilly, Sthefany
 
@@ -45,6 +45,7 @@
 
 3º B|Desenvolvedora de Games|Jogos para mobile, PC e consoles|https://sthefanebrito.github.io/Projeto-kitty-/|Carlos Júnior, Felype, Gabriel, Jamilly Vitória, Jean Matheus, Maria Luara, Marjory, Sthefane
 3º B|Portal de Ensino de Educação Financeira|Conteúdo sobre investimentos e gestão financeira|https://theus450.github.io/Projeto-EvoCoin/|Daniel, Hericky, Matheus, Paulo Ricardo, Rayssa Thayná, Yasmim
+
 
 
 
