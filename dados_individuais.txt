@@ -3,7 +3,7 @@
 1º A|Ana Cristina|BTS: Beyond The Scene|https://anasantos275-ui.github.io/nanacriss/|Ana Cristina
 1º A|Ana Paula|Pamonharia Delícias do Milho 🌽|https://anaserria-wq.github.io/ana.paula/|Ana Paula
 1º A|Anny|Gênio - Quiz|https://annylu1z4.github.io/Site-Individual/|Anny
-1º A|Dhovana|Biblioteca Gótica Hello Kitty|https://dhovana.github.io/biblioteca/|Dhovana
+1º A|Dhovana|Mundo Hello Kitty|https://dhovana.github.io/site-pessoal/|Dhovana
 1º A|Diêniffer|Olá mundo!|https://dieniffermenezes-gif.github.io/index.html/|Diêniffer
 1º A|Dyêmisson|Título|#Link|Autor(es)
 1º A|Emilly|Açaí Mania|https://emillyar.github.io/a-ai.emilly/|Emilly
@@ -70,7 +70,7 @@
 1º C|Lucas Lubachevski|Segurança|https://lucaslubachevski.github.io/seguranca/|Lucas Lubachevski
 1º C|Luiz Felipe|Pelúcias oficiais dos seus jogos favoritos|https://luizfelipe-pereira.github.io/Teddy/|Luiz Felipe
 1º C|Lukas|Título|#Link|Autor(es)
-1º C|Mauricio|Título|#Link|Autor(es)
+1º C|Mauricio|Empregos Brasil|https://mauriciofilho244.github.io/empregos/|Mauricio
 1º C|Murilo|Título|#Link|Autor(es)
 1º C|Natalia|Título|https://nataliacarvalho2-dotcom.github.io/Astronomia/|Natalia
 1º C|Pedro Henrique|Título|#Link|Autor(es)
@@ -81,15 +81,15 @@
 1º C|Yana|Direito Criminal|https://saiury2009.github.io/Direitos-criminais/|Yana
 
 2º A|Ana Carolina|Título|#Link|Autor(es)
-2º A|Ana Clara|Título|#Link|Autor(es)
+2º A|Ana Clara|Max Loja de Roupas|https://anasantos327-max.github.io/loja-de-roupa/|Ana Clara
 2º A|Ana Luísa|Título|#Link|Autor(es)
-2º A|Daniel|Título|#Link|Autor(es)
-2º A|Danillo|Título|#Link|Autor(es)
+2º A|Daniel|Escola CEPI Divino Pai Eterno|https://daniellemes1-collab.github.io/simples/|Daniel
+2º A|Danillo|Roupas|http://danilloloup-cell.github.io/Roupas|Danillo
 2º A|Davi|Título|#Link|Autor(es)
 2º A|Eduardo|Título|#Link|Autor(es)
 2º A|Elcio|Título|https://elciolima-create.github.io/repositorio-dos-cara-do-teto|Elcio
 2º A|Fernanda|Título|#Link|Autor(es)
-2º A|Geovanna|Título|#Link|Autor(es)
+2º A|Geovanna|Dexter|https://geovannasousa33-boop.github.io/Dexter-/|Geovanna
 2º A|Heitor|Título|#Link|Autor(es)
 2º A|Italo|Título|#Link|Autor(es)
 2º A|Izadora|DoceVibe|https://izadorafreitas1-prog.github.io/DoceVibe/|Izadora
@@ -97,9 +97,9 @@
 2º A|Kauã|Título|https://nzx7x.github.io/GameLab|Autor(es)
 2º A|Kawane|Título|#Link|Autor(es)
 2º A|Kayo|Título|#Link|Autor(es)
-2º A|Marcos Antônio|Orion Explorers|https://mm4rc0.github.io/Orion/|Marcos Antônio
-2º A|Marcos Rangel|Título|#Link|Autor(es)
-2º A|Nicolly|Título|#Link|Autor(es)
+2º A|Marcos Antônio|Orion Explorers|http://mm4rc0.github.io/ClarityIA|Marcos Antônio
+2º A|Marcos Rangel|Bem-vindo ao universo Sobrenatural|https://r4ngll.github.io/sobrenatural/|Marcos Rangel
+2º A|Nicolly|Restaurante Delícia|https://nicollystefhany-hue.github.io/restaurante-/|Nicolly
 2º A|Sidney|Título|#Link|Autor(es)
 2º A|Tawany|Título|#Link|Autor(es)
 2º A|Ysabella|Título|#Link|Autor(es)
@@ -173,4 +173,5 @@
 3º B|Paulo|Artes|https://paulosantos57-lgtm.github.io/Artes/|Paulo
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
-3º B|Yasmin|Lore do Twenty One Pilots|yasminsilva791-commits.github.io/trench|Yasmin
+3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
+
