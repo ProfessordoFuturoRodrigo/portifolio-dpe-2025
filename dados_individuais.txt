@@ -80,7 +80,6 @@
 1º C|Vytor|Título|#Link|Autor(es)
 1º C|Yana|Direito Criminal|https://saiury2009.github.io/Direitos-criminais/|Yana
 
-2º A|Ana Carolina|Título|#Link|Autor(es)
 2º A|Ana Clara|Max Loja de Roupas|https://anasantos327-max.github.io/loja-de-roupa/|Ana Clara
 2º A|Ana Luísa|Título|#Link|Autor(es)
 2º A|Daniel|Escola CEPI Divino Pai Eterno|https://daniellemes1-collab.github.io/simples/|Daniel
@@ -174,4 +173,5 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
+
 
