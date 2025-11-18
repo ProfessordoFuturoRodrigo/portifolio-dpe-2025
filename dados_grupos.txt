@@ -16,7 +16,7 @@
 1º C|Centro de Reforço Escolar Online|Apoio em matemática, português e ciências|https://murilomax-pixel.github.io/refor-o-online/|Erick, Geraldo, Gustavo, Lukas Gabriel, Murilo Max
 1º C|Plataforma de Psicólogos Online|Atendimento psicológico remoto|https://professordofuturorodrigo.github.io/em_constru-o/|Anna Beatriz, Fillipe Gabriel, Kayky, Thamili
 1º C|Loja de Componentes Eletrônicos|Venda de placas, sensores e microcontroladores|https://professordofuturorodrigo.github.io/em_constru-o/|Lucas José, Natália, Pedro Henrique
-1º C|Loja de Equipamentos para Fotografia|Câmeras, acessórios e iluminação|https://professordofuturorodrigo.github.io/em_constru-o/|Amanda
+1º C|Loja de Equipamentos para Fotografia|Câmeras, acessórios e iluminação|https://aduarte-maker.github.io/loja-de-equipamentos-fotograficas-|Amanda
 1º C|Portal de Notícias Comunitárias|Informações locais e jornalismo independente|https://professordofuturorodrigo.github.io/em_constru-o/|Fellipe, Lucas Lubachevski, Mauricio, Vyctor Augusto, Vytor
 1º C|Loja de Brinquedos Educativos|Para desenvolvimento infantil|https://saiury2009.github.io/Nana/|João Vitor, Yana
 1º C|Startup de Economia Circular|Reaproveitamento e reciclagem de materiais|https://professordofuturorodrigo.github.io/em_constru-o/|Arthur
@@ -45,6 +45,7 @@
 
 3º B|Desenvolvedora de Games|Jogos para mobile, PC e consoles|https://sthefanebrito.github.io/Projeto-kitty-/|Carlos Júnior, Felype, Gabriel, Jamilly Vitória, Jean Matheus, Maria Luara, Marjory, Sthefane
 3º B|Portal de Ensino de Educação Financeira|Conteúdo sobre investimentos e gestão financeira|https://theus450.github.io/Projeto-EvoCoin/|Daniel, Hericky, Matheus, Paulo Ricardo, Rayssa Thayná, Yasmim
+
 
 
 
