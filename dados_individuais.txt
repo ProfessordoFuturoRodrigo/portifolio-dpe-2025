@@ -11,7 +11,7 @@
 1º A|Fhaitton|PixelPlay|https://fhaittonverissimo-bot.github.io/loja-de-jogos-2.0/|Fhaitton
 1º A|Heithor|VIDA PROFISSIONAL DE LIZ GILLIES|https://heithorsilva-ctrl.github.io/heithor./|Heithor
 1º A|Helena|Lena suplementos|https://helenagouveia-code.github.io/lena_suplementos/|Helena
-1º A|Henry|Loja Oficial Hupi|https://henryadler-cyber.github.io/meu.site.bom/|Henry
+1º A|Henry|Loja Oficial Hupi|https://henryadler-cyber.github.io/https-github.com-henryadler-cyber-meu.site.bom/|Henry
 1º A|Hevellyn|Viagem dos Sonhos|https://hevellynsouzaarntes16.github.io/site-individual/|Hevellyn
 1º A|Isabella|Loja Country Estilo Sertanejo|https://isabellaferreirasilva2-ctrl.github.io/isa/|Isabella
 1º A|Kaique|Somar|https://kaiquecunha-cloud.github.io/kaique19cm/|Kaique
@@ -173,6 +173,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
+
 
 
 
