@@ -69,9 +69,10 @@
 1º C|Lucas José|Título|#Link|Autor(es)
 1º C|Lucas Lubachevski|Segurança|https://lucaslubachevski.github.io/seguranca/|Lucas Lubachevski
 1º C|Luiz Felipe|Pelúcias oficiais dos seus jogos favoritos|https://luizfelipe-pereira.github.io/Teddy/|Luiz Felipe
+1º C|Luiz Felipe|Projeto de Física|https://luizfelipe-pereira.github.io/F-sica-Para-Todos/|Luiz Felipe
 1º C|Lukas|Título|#Link|Autor(es)
 1º C|Mauricio|Empregos Brasil|https://mauriciofilho244.github.io/empregos/|Mauricio
-1º C|Murilo|Título|#Link|Autor(es)
+1º C|Murilo|Fórmula 1|https://murilomax-pixel.github.io/F1-cars/|Murilo
 1º C|Natalia|Título|https://nataliacarvalho2-dotcom.github.io/Astronomia/|Natalia
 1º C|Pedro Henrique|Título|#Link|Autor(es)
 1º C|Thamili|Título|#Link|Autor(es)
@@ -173,6 +174,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
+
 
 
 
