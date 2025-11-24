@@ -125,7 +125,7 @@
 2º C|Carlos Victor|Título|#Link|Autor(es)
 2º C|Cibele|Validador|https://cibelefelix-prog.github.io/mundo-das-makes/|Cibele
 2º C|Daniel Xavier|Título|#Link|Autor(es)
-2º C|Divino|Título|#Link|Autor(es)
+2º C|Divino|UNDERTALE|https://divinoneto1-lang.github.io/Divino2-c-/|Divino
 2º C|Gabriela|Vitoriana - Loja de roupas femininas|https://gabrielamartins3-byte.github.io/Vitoriana/|Gabriela
 2º C|Izabelly|Título|#Link|Autor(es)
 2º C|Jhully Emilly|Validador|https://jhullychaves-oss.github.io/Mundo-Infantil/|Jhully Emilly
@@ -141,7 +141,7 @@
 2º C|Ruan|Título|#Link|Autor(es)
 2º C|Sthefany|Título|#Link|Autor(es)
 2º C|Wilkner|Bem-vindo ao meu espaço pessoal na web, onde compartilho um pouco sobre mim, minhas experiências e as coisas que amo.|https://wilunderline.github.io/meusiteiradodelegaldemaneiro/|Wilkner
-2º C|Wryel|Título|#Link|Autor(es)
+2º C|Wryel|O Caminho do Maculado|https://wryelkaio1-cyber.github.io/site-elder-ring|Wryel
 
 3º A|Anny Gabrielly|Arte em desenvolvimento|https://annyluz1-2026.github.io/Art-desing/|Anny Gabrielly
 3º A|Carlos Alexandre|Filmes e séries ilimitados|https://totelis.github.io/Trabalho2/|Carlos Alexandre
@@ -174,6 +174,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
+
 
 
 
