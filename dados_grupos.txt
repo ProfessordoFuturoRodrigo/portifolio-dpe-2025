@@ -36,7 +36,7 @@
 2º C|Centro de Estética e Cuidados Pessoais|Serviços de beleza e bem-estar|https://wilunderline.github.io/Centro-de-Estetica/|Carlos Victor, Kaue Henrique, Osmar, Wilkner Felipe
 2º C|Consultoria em Blockchain e Criptomoedas|Segurança e investimento em criptografia|https://professordofuturorodrigo.github.io/em_constru-o/|Daniel, Luiz, Pedro Henrique, Reminton
 2º C|Loja de Cosméticos Naturais|Natura Bella|https://pablinesilva3.github.io/Natura-Bella/|Gabriela, Kayky, Maria Eduarda, Pabline, Roberta Heloar, Ruan Gabriel
-2º C|Escola de Idiomas para Baixa Renda|Aulas gratuitas ou a preços acessíveis|https://professordofuturorodrigo.github.io/em_constru-o/|Divino, Izabelly Maria, Wryel Kaio
+2º C|Escola de Idiomas para Baixa Renda|Aulas gratuitas ou a preços acessíveis|https://github.com/wryelkaio1-cyber/Linguagem|Divino, Izabelly Maria, Wryel Kaio
 2º C|Mercado de Produtos Orgânicos|Hortifrúti e produtos naturais|https://professordofuturorodrigo.github.io/em_constru-o/|Cibele, Jhully Emilly, Sthefany
 
 3º A|Clube de Assinatura de Café Artesanal|Envio mensal de cafés especiais|https://joaoolv25.github.io/Assinatura-de-caf-s-artesanais/|Carlos Eduardo, João Vitor, Luiz Gustavo, Pablo Pyetro, Samuel
@@ -45,16 +45,3 @@
 
 3º B|Desenvolvedora de Games|Jogos para mobile, PC e consoles|https://sthefanebrito.github.io/Projeto-kitty-/|Carlos Júnior, Felype, Gabriel, Jamilly Vitória, Jean Matheus, Maria Luara, Marjory, Sthefane
 3º B|Portal de Ensino de Educação Financeira|Conteúdo sobre investimentos e gestão financeira|https://theus450.github.io/Projeto-EvoCoin/|Daniel, Hericky, Matheus, Paulo Ricardo, Rayssa Thayná, Yasmim
-
-
-
-
-
-
-
-
-
-
-
-
-
