@@ -169,16 +169,11 @@
 3º B|Jean|Mundo títere|https://jeansantos44-rgb.github.io/Titeres-munecos-y-fantoches/|Jean
 3º B|Maria Luara|Crepúsculo|https://marialuara-byte.github.io/lua.crepusculo/|Maria Luara
 3º B|Marjory|Marvel|marjorynogueira-wq.github.io/Site-MCU|Marjory
-3º B|Matheus|Título|#Link|Autor(es)
+3º B|Matheus|GAMEVAULT|https://theus450.github.io/GameVault/|Matheus
 3º B|Paulo|Artes|https://paulosantos57-lgtm.github.io/Artes/|Paulo
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
-
-
-
-
-
 
 
 
