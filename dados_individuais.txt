@@ -6,7 +6,7 @@
 1º A|Dhovana|Mundo Hello Kitty|https://dhovana.github.io/site-pessoal/|Dhovana
 1º A|Diêniffer|Olá mundo!|https://dieniffermenezes-gif.github.io/index.html/|Diêniffer
 1º A|Dyêmisson|Título|#Link|Autor(es)
-1º A|Emilly|Açaí Mania|https://emillyar.github.io/a-ai.emilly/|Emilly
+1º A|Emilly|Açaí Mania|https://emillyar.github.io/emy.site-individual/|Emilly
 1º A|Estefany|FoodApp - Peça dos melhores restaurantes perto de você!|https://estefanysofia-svg.github.io/Estefany.sofia/|Estefany
 1º A|Fhaitton|PixelPlay|https://fhaittonverissimo-bot.github.io/loja-de-jogos-2.0/|Fhaitton
 1º A|Heithor|VIDA PROFISSIONAL DE LIZ GILLIES|https://heithorsilva-ctrl.github.io/heithor./|Heithor
@@ -138,7 +138,7 @@
 2º C|Pedro|Título|#Link|Autor(es)
 2º C|Reminton|Título|#Link|Autor(es)
 2º C|Roberta|Roberta 💖|https://robertaheloar-cloud.github.io/site-pessoal/|Roberta
-2º C|Ruan|Título|#Link|Autor(es)
+2º C|Ruan|F1 Racing|https://ruansilva53-tech.github.io/site-do-ruan/|Ruan
 2º C|Sthefany|Título|#Link|Autor(es)
 2º C|Wilkner|Bem-vindo ao meu espaço pessoal na web, onde compartilho um pouco sobre mim, minhas experiências e as coisas que amo.|https://wilunderline.github.io/meusiteiradodelegaldemaneiro/|Wilkner
 2º C|Wryel|O Caminho do Maculado|https://wryelkaio1-cyber.github.io/site-elder-ring|Wryel
@@ -174,6 +174,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
+
 
 
 
