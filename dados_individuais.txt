@@ -161,7 +161,7 @@
 3º A|Samuel|Este site sobre mangá|https://samueloliveira22-ai.github.io/manga/|Samuel
 3º A|Yasmim|Livros|https://yasmimpereira43.github.io/Livros-e-Luz/|Yasmim
 
-3º B|Carlos Junio|Título|#Link|Autor(es)
+3º B|Carlos Junio|G12 do Futebol Brasileiro|https://carlos-tavares-0911.github.io/Sitefutebol/|Carlos Junio
 3º B|Daniel|O site mais complexo da história|https://oliveira-dn.github.io/RODRIGUETE-TRABALHO-INDIVIDUAL/|Daniel
 3º B|Gabriel|Título|#Link|Autor(es)
 3º B|Hericky|Jogos e Esportes|https://herickygo.github.io/jogos/|Hericky
@@ -175,15 +175,3 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
-
-
-
-
-
-
-
-
-
-
-
-
