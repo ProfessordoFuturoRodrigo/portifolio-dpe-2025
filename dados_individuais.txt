@@ -24,7 +24,7 @@
 1º A|Náthaly|Título|#Link|Autor(es)
 1º A|Pedro Lucas|Floricultura Jardim Encantado 🌿 Flores para todos os momentos|https://pedrolima146-coder.github.io/Pedro.Lucas/|Pedro Lucas
 1º A|Talya|Título|#Link|Autor(es)
-1º A|Thiesa|Simulação de IA|https://thiesasousa-lab.github.io/site_individual/|Thiesa
+1º A|Thiesa|Simulação de IA|https://thiesasousa-lab.github.io/site-efg./|Thiesa
 1º A|Victor|Roupas masculinas Nike Dri-FIT|https://vkoviskylindo.github.io/roupas-dri-fit-nike/|Victor
 
 1º B|Ana Karolyna|💋 Beleza Feminina|https://aninhalegal.github.io/glow-beuty/|Ana Karolyna
@@ -175,4 +175,5 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
+
 
