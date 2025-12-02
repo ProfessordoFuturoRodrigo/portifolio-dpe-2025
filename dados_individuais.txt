@@ -57,7 +57,7 @@
 
 1º C|Amanda Duarte|Equipamentos Fotográficos|https://aduarte-maker.github.io/-vendas-/|Amanda Duarte
 1º C|Anna Beatriz|Make|https://annabeatriz5.github.io/make/|Anna Beatriz
-1º C|Arthur|Título|#Link|Autor(es)
+1º C|Arthur|LEXUS|variavelcvb.github.io/lexus.com/|Arthur
 1º C|Erick|Produtos Makita|https://ericksilvaoliveira2-droid.github.io/individual/|Erick
 1º C|Fellipe|Título|#Link|Autor(es)
 1º C|Fernando|Título|#Link|Autor(es)
@@ -175,6 +175,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
+
 
 
 
