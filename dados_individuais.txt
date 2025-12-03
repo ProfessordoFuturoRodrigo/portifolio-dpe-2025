@@ -144,7 +144,7 @@
 2º C|Wryel|O Caminho do Maculado|https://wryelkaio1-cyber.github.io/site-elder-ring|Wryel
 
 3º A|Anny Gabrielly|Arte em desenvolvimento|https://annyluz1-2026.github.io/art-desing2/|Anny Gabrielly
-3º A|Carlos Alexandre|Filmes e séries ilimitados|https://totelis.github.io/Trabalho2/|Carlos Alexandre
+3º A|Carlos Alexandre|Filmes e séries ilimitados|https://totelis.github.io/TrabalhoPessoalDevinitivo/|Carlos Alexandre
 3º A|Carlos Eduardo|Smartwatch: Tecnologia no Seu Pulso|https://carlosmatos2-bit.github.io/Rel-gios-smartwatch/|Carlos Eduardo
 3º A|Cauã|🎬 Catálogo de Filmes|https://cauax777.github.io/grupo3/|Cauã  
 3º A|Daniel|Título|#Link|Autor(es)
@@ -175,6 +175,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
+
 
 
 
