@@ -17,7 +17,7 @@
 1º A|Kaique|Somar|https://kaiquecunha-cloud.github.io/kaique19cm/|Kaique
 1º A|Kayon|Saúde e Bem-Estar|https://kayonmoraes-stack.github.io/trabalho-individual/|Kayon
 1º A|Larissa|🔥 QUIZ MC KEVIN 🔥|https://larissacruzdias-ai.github.io/quiz/|Larissa
-1º A|Lucas|KNgames|https://lucas-acs-pro.github.io/KNgames-Website/Lucas
+1º A|Lucas|TRAUMA TEAM|https://luccaskn.github.io/TTI-Website//KNgames-Website/Lucas
 1º A|Luiz Felipe|TurboDrive - Loja de Carros|https://luizdomingues1-maker.github.io/luizcar/|Luiz Felipe
 1º A|Maria Vitória|Elegance Vestidos|https://mariaaquino4-cpu.github.io/roupas.maria/|Maria Vitória
 1º A|Matheus Gabriel|Story Moda|https://matheus0022.github.io/Story-Moda/|Matheus Gabriel
@@ -175,6 +175,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
+
 
 
 
