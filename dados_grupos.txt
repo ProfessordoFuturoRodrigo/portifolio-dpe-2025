@@ -21,7 +21,7 @@
 1º C|Loja de Brinquedos Educativos|Para desenvolvimento infantil|https://saiury2009.github.io/Nana/|João Vitor, Yana
 1º C|Startup de Economia Circular|Reaproveitamento e reciclagem de materiais|https://professordofuturorodrigo.github.io/em_constru-o/|Arthur
 
-2º A|Empresa de Soluções em IoT (Internet das Coisas)|Automação residencial e industrial|https://professordofuturorodrigo.github.io/em_constru-o/|Elcio, Fernanda, Italo Ryan, Marcos, Ysabella
+2º A|Empresa de Soluções em IoT (Internet das Coisas)|Automação residencial e industrial|https://Mm4rc0.github.io/IoT/|Elcio, Fernanda, Italo Ryan, Marcos, Ysabella
 2º A|Pet Shop Online|Produtos e serviços para animais de estimação|https://petshop-online.lovable.app/|Heitor, Kauã, Marcos Rangel, Sidney
 2º A|Plataforma de Cursos Online|EAD para cursos técnicos e profissionalizantes|https://danilloloup-cell.github.io/Projeto-Integrador/|Danillo Cristian, Eduardo, José Rodolpho, Kayo Gabryel
 2º A|Biblioteca Digital Comunitária|Acesso a livros gratuitos e acessíveis|https://izadorafreitas1-prog.github.io/bibli/|Ana Clara, Davi, Izadora, Kawane, Nicolly
@@ -45,6 +45,7 @@
 
 3º B|Desenvolvedora de Games|Jogos para mobile, PC e consoles|https://sthefanebrito.github.io/Projeto-kitty-/|Carlos Júnior, Felype, Gabriel, Jamilly Vitória, Jean Matheus, Maria Luara, Marjory, Sthefane
 3º B|Portal de Ensino de Educação Financeira|Conteúdo sobre investimentos e gestão financeira|https://theus450.github.io/Projeto-EvoCoin/|Daniel, Hericky, Matheus, Paulo Ricardo, Rayssa Thayná, Yasmim
+
 
 
 
