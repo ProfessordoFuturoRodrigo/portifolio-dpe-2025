@@ -35,7 +35,7 @@
 1º B|Bárbara|Cabelos Hidratados|https://barbarahonorato-rgb.github.io/cuidados-para-cabelo-/|Bárbara
 1º B|Cloves|Jogo do Quadrado|https://clovesfilho-maker.github.io/jogo-de-cloves/|Cloves
 1º B|David|Kaká - Lenda do Futebol|https://davidweslleyjesus-alt.github.io/kaka/|David
-1º B|Evelyn|Moda 2025|https://evelynkarolline-wq.github.io/site-individual/|Evelyn
+1º B|Evelyn|Moda 2025|https://evelynkarolline-wq.github.io/time01pi/|Evelyn
 1º B|Felipe|Jogo do Pulo|https://felipelima25-lang.github.io/Jogo-do-Pulo/|Felipe
 1º B|Keven|Loja é produtos esportivos|https://kendo07lord.github.io/teste-individual/|Keven
 1º B|Lara|Sobre as Flores|https://laracristinas.github.io/floricultura-bela-flor/|Lara
@@ -92,10 +92,10 @@
 2º A|Geovanna|Dexter|https://geovannasousa33-boop.github.io/Dexter-/|Geovanna
 2º A|Heitor|Construmax|https://neressz.github.io/neressz11/|Heitor
 2º A|Italo|Título|#Link|Autor(es)
-2º A|Izadora|DoceVibe|https://izadorafreitas1-prog.github.io/DoceVibe/|Izadora
+2º A|Izadora|Bellíssima — Loja de Maquiagem|https://izadorafreitas1-prog.github.io/Bell-sima/|Izadora
 2º A|José|Título|#Link|Autor(es)
 2º A|Kauã|Título|https://nzx7x.github.io/GameLab|Autor(es)
-2º A|Kawane|Título|#Link|Autor(es)
+2º A|Kawane|M&B|https://kawanebrito-png.github.io/Minimalista/|Kawane
 2º A|Kayo|Título|#Link|Autor(es)
 2º A|Marcos Antônio|Orion Explorers|http://mm4rc0.github.io/ClarityIA|Marcos Antônio
 2º A|Marcos Rangel|Bem-vindo ao universo Sobrenatural|https://r4ngll.github.io/sobrenatural/|Marcos Rangel
@@ -175,6 +175,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
+
 
 
 
