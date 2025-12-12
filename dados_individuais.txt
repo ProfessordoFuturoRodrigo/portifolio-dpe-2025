@@ -134,7 +134,7 @@
 2º C|Luiz Henrique|Título|#Link|Autor(es)
 2º C|Maria Eduarda|Joalheria|https://mariasouza234-a11y.github.io/LYS/|Maria Eduarda
 2º C|Osmar|Título|#Link|Autor(es)
-2º C|Pabline|Loja online de roupas fits|https://pablinesilva3.github.io/Priscila-Fitwaer/|Pabline
+2º C|Pabline|meu Mundo|https://pablinesilva3.github.io/Pabs-Universo/|Pabline
 2º C|Pedro|Título|#Link|Autor(es)
 2º C|Reminton|Título|#Link|Autor(es)
 2º C|Roberta|Roberta 💖|https://robertaheloar-cloud.github.io/site-pessoal/|Roberta
@@ -175,6 +175,7 @@
 3º B|Rayssa Thayná|O Mundo da Música|https://rayssasilva134-cell.github.io/m-sica/|Rayssa Thayná
 3º B|Sthefane|Cosmos dos Livros|https://sthefanebrito.github.io/Livraria-C-smica/|Sthefane
 3º B|Yasmin|Lore do Twenty One Pilots|http://yasminsilva791-commits.github.io/trench|Yasmin
+
 
 
 
